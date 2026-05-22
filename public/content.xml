@@ -12,12 +12,10 @@
             <category_id>75_85</category_id>
             <brand>Broil King</brand>
             <availability>Є в наявності</availability>
-
             <weight>74</weight>
             <height>80</height>
             <width>63.6</width>
             <length>60.9</length>
-
             <description>
                 <![CDATA[
                 <h5>Потужність американського виробництва</h5>
@@ -41,7 +39,6 @@
                 <p>Кришка з подвійними сталевими стінками та литими алюмінієвими боковинами утримує тепло всередині камери. Закрита шафа з двома дверцятами приховує балон і аксесуари. Чотири колеса зі стопорами та регульовані ніжки Level Q™ спрощують переміщення та встановлення гриля на нерівній поверхні.</p>
                 ]]>
             </description>
-
             <image_link>
                 <picture>https://bbq.ua/image/cache/catalog/big/875263_01-1200x1200.jpg</picture>
                 <picture>https://bbq.ua/image/cache/catalog/big/875263_02-1200x1200.jpg</picture>
@@ -53,7 +50,6 @@
                 <picture>https://bbq.ua/image/cache/catalog/big/875263_08-1200x1200.jpg</picture>
                 <picture>https://bbq.ua/image/cache/catalog/big/875263_09-1200x1200.jpg</picture>
             </image_link>
-
             <tags>
                 <param name="Тип палива">Газ</param>
                 <param name="Кількість пальників">4</param>
@@ -89,7 +85,77 @@
                 <param name="Гарантія">12 місяців</param>
                 <param name="Країна виробництва">США</param>
             </tags>
+        </offer>
 
+        <offer>
+            <id>1441</id>
+            <code>G1-010</code>
+            <vendor_code>952653</vendor_code>
+            <title>Гриль газовий Broil King Porta-Chef 320 срібний (952653)</title>
+            <barcode>62703113180</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>18</weight>
+            <height>75.7</height>
+            <width>36.3</width>
+            <length>48.7</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний гриль з можливостями стаціонарного</h5>
+                <br>
+                <p>Broil King Porta-Chef 320 — портативний газовий гриль, який поєднує мобільність із повноцінними можливостями приготування. Завдяки литій алюмінієвій камері Therma-Cast™ та 3 пальникам із нержавіючої сталі він забезпечує рівномірний жар і стабільну температуру — як на домашньому майданчику, так і на природі.</p>
+                <br>
+                <h5>Дві чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Дві двосторонні чавунні решітки Flaw-R-Cast™ площею 1 463,2 см² рівномірно накопичують тепло і залишають характерні смуги на продуктах. Три аромапластини Flaw-R-Wave™ з нержавіючої сталі 304 марки випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи спалахи.</p>
+                <br>
+                <h5>Мобільність та зручність використання</h5>
+                <br>
+                <p>З'ємні ніжки, що кріпляться під камеру, та компактні складні крила забезпечують зручне транспортування. Надійні металеві фіксатори замикають кришку під час перевезення. Гриль легко розбирається і поміщається в автомобіль — ідеальний вибір для мисливців, рибалок та любителів кемпінгу.</p>
+                <br>
+                <h5>Точний контроль температури</h5>
+                <br>
+                <p>Регулятори подачі газу Linear-Flow™ з кутом повороту 180° і технологією Sensi-Touch™ забезпечують плавне регулювання температури в кожній зоні. Вбудований термометр Accu-Temp™ дозволяє контролювати температуру всередині камери без підняття кришки.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/952653_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/952653_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/952653_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/952653_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/952653_05-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Загальна потужність">4,1 кВт</param>
+                <param name="Потужність основних пальників">4,1 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з чорною порошковою фарбою</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Матеріал камери">Литий алюміній Therma-Cast™</param>
+                <param name="Загальна площа приготування">2 263,6 см²</param>
+                <param name="Площа основної решітки">1 463,2 см²</param>
+                <param name="Розміри основної решітки">47,2 х 31 см</param>
+                <param name="Площа решітки для підігріву">800,4 см²</param>
+                <param name="Розміри решітки для підігріву">43,5 х 18,4 см</param>
+                <param name="Розміри в зібраному вигляді">93 х 117 х 52 см</param>
+                <param name="Вага">18 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Accu-Temp™</param>
+                <param name="Бічна конфорка">Ні</param>
+                <param name="Рожен">Ні</param>
+                <param name="Знімні ніжки">Так</param>
+                <param name="Кількість камер">1</param>
+                <param name="Колір">Срібний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
         </offer>
 
     </offers>
