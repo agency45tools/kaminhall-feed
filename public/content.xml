@@ -158,5 +158,82 @@
             </tags>
         </offer>
 
+
+        <offer>
+            <id>1435</id>
+            <code>G1-004</code>
+            <vendor_code>865263</vendor_code>
+            <title>Гриль газовий Broil King Crown 440 чорний (865263)</title>
+            <barcode>62703108834</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>65</weight>
+            <height>80</height>
+            <width>63.6</width>
+            <length>60.9</length>
+            <description>
+                <![CDATA[
+                <h5>Стаціонарний гриль для повного спектру приготування</h5>
+                <br>
+                <p>Broil King Crown 440 — газовий стаціонарний гриль з 4 пальниками з нержавіючої сталі та загальною потужністю 15,1 кВт. Великої камери достатньо для приготування 8-10 порцій одночасно, а прогрів до робочої температури в теплу погоду займає лише 20 хвилин.</p>
+                <br>
+                <h5>Повноцінна кулінарна система PGT</h5>
+                <br>
+                <p>Дві масивні двосторонні чавунні решітки Flaw-R-Cast™ площею 2 859,4 см² рівномірно накопичують і віддають тепло. Чотири аромапластини Flaw-R-Wave™ з нержавіючої сталі 304 марки випаровують краплі жиру, насичуючи страву ароматом барбекю та запобігаючи спалахам.</p>
+                <br>
+                <h5>Бічна конфорка та зручне зберігання</h5>
+                <br>
+                <p>Бічна конфорка потужністю 2,7 кВт дозволяє готувати соуси та глінтвейни прямо під час грилювання. Закрита шафа з двома дверцятами забезпечує місце для зберігання балону, аксесуарів та інструментів.</p>
+                <br>
+                <h5>Надійна конструкція та зручне переміщення</h5>
+                <br>
+                <p>Кришка з подвійними сталевими стінками та литими алюмінієвими боковинами утримує тепло всередині камери. Чотири колеса зі стопами висотою 7,6 см забезпечують комфортне переміщення гриля по плитці та надійно фіксують його на місці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/1-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/2-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/3-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/4-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/5-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/6-1200x1200.jpg</picture>
+                <picture>https://kaminhall.ua/image/cache/catalog/865263/7-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">4</param>
+                <param name="Потужність основних пальників">12,4 кВт</param>
+                <param name="Потужність бічної конфорки">2,7 кВт</param>
+                <param name="Загальна потужність">15,1 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Покриття решітки для підігріву">Порцелянове</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з чорною порошковою фарбою</param>
+                <param name="Матеріал корпусу">Сталь з покриттям з цинку</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Загальна площа приготування">3 938,9 см²</param>
+                <param name="Площа основних решіток">2 859,4 см²</param>
+                <param name="Розміри основних решіток">64,4 х 44,4 см</param>
+                <param name="Площа решітки для підігріву">1 079,5 см²</param>
+                <param name="Розміри решітки для підігріву">63,5 х 17 см</param>
+                <param name="Розміри в зібраному вигляді">116,8 х 142,2 х 58,4 см</param>
+                <param name="Вага">65 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Deluxe Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Закрита шафа для зберігання">Так</param>
+                <param name="Кількість дверцят шафи">2</param>
+                <param name="Рожен">Ні</param>
+                <param name="Висота коліс">7,6 см</param>
+                <param name="Колеса зі стопорами">Так</param>
+                <param name="Кількість камер">1</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
