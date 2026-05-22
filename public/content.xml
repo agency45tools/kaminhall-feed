@@ -3,9 +3,7 @@
     <offers>
 
         <offer>
-            <!-- id товару з твого сайту (product_id з URL) -->
             <id>1437</id>
-            <!-- code = Модель з картки товару, саме за ним маркетплейс тягне ціни з фіду пропозицій -->
             <code>G1-006</code>
             <vendor_code>875263</vendor_code>
             <title>Гриль газовий Broil King Baron 440 чорний (875263)</title>
@@ -15,10 +13,7 @@
             <brand>Broil King</brand>
             <availability>Є в наявності</availability>
 
-            <!-- Вага в упаковці (кг) -->
             <weight>74</weight>
-
-            <!-- Розміри в упаковці (см) -->
             <height>80</height>
             <width>63.6</width>
             <length>60.9</length>
@@ -47,11 +42,16 @@
                 ]]>
             </description>
 
-            <!-- Фото з твого сайту kaminhall.ua, максимальна якість 1200x1200 -->
             <image_link>
-                <picture>https://kaminhall.ua/image/cache/catalog/875263/1-1200x1200.jpg</picture>
-                <picture>https://kaminhall.ua/image/cache/catalog/875263/2-1200x1200.jpg</picture>
-                <picture>https://kaminhall.ua/image/cache/catalog/875263/3-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_05-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_06-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_07-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_08-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/875263_09-1200x1200.jpg</picture>
             </image_link>
 
             <tags>
@@ -61,25 +61,30 @@
                 <param name="Потужність бічної конфорки">2,7 кВт</param>
                 <param name="Загальна потужність">15,1 кВт</param>
                 <param name="Матеріал решіток">Чавун</param>
+                <param name="Покриття решітки для підігріву">Порцелянове</param>
                 <param name="Матеріал корпусу">Нержавіюча сталь</param>
                 <param name="Матеріал корпусу">Литий алюміній</param>
                 <param name="Матеріал корпусу">Сталь з чорною порошковою фарбою</param>
+                <param name="Матеріал корпусу">Сталь з покриттям із цинку</param>
                 <param name="Матеріал корпусу">Пластик</param>
                 <param name="Загальна площа приготування">4 775 см²</param>
                 <param name="Площа основних решіток">2 921,5 см²</param>
+                <param name="Розміри основних решіток">65,8 х 44,4 см</param>
                 <param name="Площа решітки для підігріву">1 079,5 см²</param>
-                <param name="Кількість камер">1</param>
+                <param name="Розміри решітки для підігріву">63,5 х 17 см</param>
+                <param name="Розміри в зібраному вигляді">116 х 145 х 61 см</param>
                 <param name="Вага">74 кг</param>
-                <param name="Висота">116 см</param>
-                <param name="Ширина">145 см</param>
-                <param name="Довжина">61 см</param>
                 <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
                 <param name="Термометр">Deluxe Accu-Temp™</param>
                 <param name="Бічна конфорка">Так</param>
                 <param name="Підсвічування регуляторів">Так</param>
                 <param name="Закрита шафа для зберігання">Так</param>
+                <param name="Кількість дверцят шафи">2</param>
                 <param name="Рожен">Ні</param>
+                <param name="Висота коліс">7,6 см</param>
                 <param name="Колеса зі стопорами">Так</param>
+                <param name="Регульовані ніжки">Так</param>
                 <param name="Колір">Чорний</param>
                 <param name="Гарантія">12 місяців</param>
                 <param name="Країна виробництва">США</param>
