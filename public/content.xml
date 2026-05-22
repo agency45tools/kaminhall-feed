@@ -389,5 +389,73 @@
                 <param name="Країна виробництва">США</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1439</id>
+            <code>G1-008</code>
+            <vendor_code>932353</vendor_code>
+            <title>Гриль газовий Broil King BK 310 чорний (932353)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>30.5</weight>
+            <height>82</height>
+            <width>40</width>
+            <length>60</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний гриль для балкона або невеликої тераси</h5>
+                <br>
+                <p>Broil King BK 310 — один з найкомпактніших газових грилів канадського складання. Він ідеально підходить для невеликого балкона або тераси завдяки невеликим габаритам, складним бічним полицям і візку, де можна розмістити газовий балон об'ємом до 18 літрів.</p>
+                <br>
+                <h5>Чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Дві чавунні решітки площею 55 × 38 см рівномірно накопичують і віддають тепло, залишаючи характерні смуги на продуктах. Аромапластини з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи кількість спалахів. Додаткова решітка з нержавіючої сталі площею 46,5 × 18,5 см призначена для підігріву страв.</p>
+                <br>
+                <h5>Два пальники та точний контроль температури</h5>
+                <br>
+                <p>Два пальники з нержавіючої сталі загальною потужністю 6,9 кВт забезпечують швидкий розігрів і стабільне підтримання температури. Вбудований термометр дозволяє контролювати температуру всередині камери без підняття кришки.</p>
+                <br>
+                <h5>Надійність та довговічність</h5>
+                <br>
+                <p>Зібраний у Канаді гриль відрізняється якісними матеріалами та надійною конструкцією. Він розрахований на тривалу експлуатацію і підкріплений офіційною гарантією виробника.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_05-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_06-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_07-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_08-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_09-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_10-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_11-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/932353_13-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">2</param>
+                <param name="Потужність основних пальників">6,9 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Розміри основних решіток">55 х 38 см</param>
+                <param name="Матеріал решітки для підігріву">Нержавіюча сталь</param>
+                <param name="Розміри решітки для підігріву">46,5 х 18,5 см</param>
+                <param name="Розміри в зібраному вигляді">110 х 54 х 123 см</param>
+                <param name="Вага">30,5 кг</param>
+                <param name="Термометр">Так</param>
+                <param name="Бічна конфорка">Ні</param>
+                <param name="Рожен">Ні</param>
+                <param name="Складні бічні полиці">Так</param>
+                <param name="Місце для балону">Так</param>
+                <param name="Кількість камер">1</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">Канада</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
