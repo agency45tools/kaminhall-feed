@@ -520,5 +520,69 @@
                 <param name="Країна виробництва">Канада</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1451</id>
+            <code>G1-014</code>
+            <vendor_code>824253</vendor_code>
+            <title>Гриль газовий Broil King Royal 320 чорний (824253)</title>
+            <barcode>62703118345</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>44</weight>
+            <height>56.8</height>
+            <width>101.8</width>
+            <length>60.8</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний гриль з повноцінною системою приготування</h5>
+                <br>
+                <p>Broil King Royal 320 — газовий гриль з 3 пальниками Dual-Tube™ з нержавіючої сталі та загальною потужністю 8,8 кВт. Котел і кришка виготовлені з литого алюмінію, що забезпечує рівномірний розподіл тепла і тривалий термін служби. Гриль розрахований на 3-4 особи і підходить для щоденного приготування.</p>
+                <br>
+                <h5>Дві чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Дві двосторонні чавунні решітки Flaw-R-Cast™ загальною площею 3 357,5 см² рівномірно накопичують і віддають тепло, залишаючи характерні смуги на продуктах. Три аромапластини Flaw-R-Wave™ з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи кількість спалахів.</p>
+                <br>
+                <h5>Зручність та мобільність</h5>
+                <br>
+                <p>Складні бічні полиці зменшують габарити гриля при зберіганні. Пластикове дно з відсіком вміщує газовий балон об'ємом до 24 літрів. Кришка з лицьовою пластиною з нержавіючої сталі та великі колеса роблять гриль зручним у переміщенні.</p>
+                <br>
+                <h5>Якість канадського виробництва</h5>
+                <br>
+                <p>Зібраний у Канаді гриль серії Royal поєднує доступність з надійністю матеріалів і якістю складання Broil King. Електронна система підпалу Sure-Lite™ та регулятори подачі газу Linear-Flow™ забезпечують точний контроль температури в кожній зоні.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/824253_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/824253_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/824253_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/824253_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/824253_05-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Потужність основних пальників">8,8 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Загальна площа приготування">3 357,5 см²</param>
+                <param name="Розміри в зібраному вигляді">119 х 132 х 56 см</param>
+                <param name="Вага">44 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™</param>
+                <param name="Термометр">Так</param>
+                <param name="Бічна конфорка">Ні</param>
+                <param name="Рожен">Ні</param>
+                <param name="Складні бічні полиці">Так</param>
+                <param name="Місце для балону">Так</param>
+                <param name="Об'єм балону">до 24 л</param>
+                <param name="Кількість камер">1</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">Канада</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
