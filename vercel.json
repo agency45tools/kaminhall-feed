@@ -1,10 +1,7 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/public/$1" }
-  ],
   "headers": [
     {
-      "source": "/public/(.*).xml",
+      "source": "/(.*).xml",
       "headers": [
         { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
         { "key": "Cache-Control", "value": "no-cache" }
