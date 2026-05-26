@@ -791,5 +791,348 @@
                 <param name="Країна виробництва">США</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1454</id>
+            <code>G1-017</code>
+            <vendor_code>921963</vendor_code>
+            <title>Гриль газовий Broil King Baron 340 чорний (921963)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>70</weight>
+            <height>63.6</height>
+            <width>80</width>
+            <length>60.9</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний гриль серії Baron з бічною конфоркою</h5>
+                <br>
+                <p>Broil King Baron 340 — газовий гриль американського складання з 3 пальниками Dual-Tube™ з нержавіючої сталі загальною потужністю 8,8 кВт. Компактніший за Baron 440, але з тією самою легендарною кулінарною системою Broil King — чавунні решітки, аромапластини та точне регулювання температури.</p>
+                <br>
+                <h5>Чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Двосторонні чавунні решітки Flaw-R-Cast™ розміром 49 × 44 см рівномірно накопичують і віддають тепло, залишаючи характерні смуги на продуктах. Три аромапластини Flaw-R-Wave™ з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи кількість спалахів.</p>
+                <br>
+                <h5>Бічна конфорка та зручність використання</h5>
+                <br>
+                <p>Бічна конфорка потужністю 2,7 кВт дозволяє одночасно готувати соуси або підігрівати страви. Складні бічні полиці економлять місце при зберіганні. Закрита шафа з двома дверцятами приховує балон і аксесуари.</p>
+                <br>
+                <h5>Надійна конструкція американського виробництва</h5>
+                <br>
+                <p>Кришка з подвійними сталевими стінками та литими алюмінієвими боковинами утримує тепло всередині камери. Підсвічування регуляторів Linear-Flow™ Sensi-Touch™ забезпечує зручне використання у вечірній час. Чотири колеса зі стопорами та регульовані ніжки Level Q™ гарантують стабільну установку.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_05-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_06-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_07-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921963_08-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Потужність основних пальників">8,8 кВт</param>
+                <param name="Потужність бічної конфорки">2,7 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Розміри основних решіток">49 х 44 см</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з покриттям із цинку</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Розміри в зібраному вигляді">116 х 130 х 61 см</param>
+                <param name="Вага">70 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Deluxe Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Підсвічування регуляторів">Так</param>
+                <param name="Рожен">Ні</param>
+                <param name="Закрита шафа для зберігання">Так</param>
+                <param name="Кількість дверцят шафи">2</param>
+                <param name="Колеса зі стопорами">Так</param>
+                <param name="Регульовані ніжки">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1455</id>
+            <code>G1-018</code>
+            <vendor_code>922953</vendor_code>
+            <title>Гриль газовий Broil King Baron 420 чорний (922953)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>69</weight>
+            <height>63.6</height>
+            <width>80</width>
+            <length>60.9</length>
+            <description>
+                <![CDATA[
+                <h5>Чотири пальники та велика площа приготування</h5>
+                <br>
+                <p>Broil King Baron 420 — газовий гриль американського складання з 4 пальниками Dual-Tube™ з нержавіючої сталі загальною потужністю 12,4 кВт. Загальна площа приготування 3 870 см² дозволяє готувати для великої компанії одночасно.</p>
+                <br>
+                <h5>Чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Чотири двосторонні чавунні решітки Flaw-R-Cast™ розміром 65 × 44 см рівномірно накопичують і віддають тепло. Чотири аромапластини Flaw-R-Wave™ з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи кількість спалахів. Решітка для підігріву з порцеляновим покриттям тримає готові страви гарячими.</p>
+                <br>
+                <h5>Бічна конфорка та закрита шафа</h5>
+                <br>
+                <p>Бічна конфорка потужністю 2,7 кВт дозволяє готувати соуси або підігрівати страви одночасно з грилюванням. Закрита шафа з 2 дверцятами забезпечує місце для балону та аксесуарів.</p>
+                <br>
+                <h5>Підсвічування та зручність</h5>
+                <br>
+                <p>Підсвічування регуляторів Linear-Flow™ Sensi-Touch™ робить гриль зручним у будь-який час доби. Складні бічні полиці, чотири колеса зі стопорами та регульовані ніжки Level Q™ забезпечують комфортне використання та переміщення.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_05-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/922953_06-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">4</param>
+                <param name="Потужність основних пальників">12,4 кВт</param>
+                <param name="Потужність бічної конфорки">2,7 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Покриття решітки для підігріву">Порцелянове</param>
+                <param name="Розміри основних решіток">65 х 44 см</param>
+                <param name="Загальна площа приготування">3 870 см²</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з покриттям із цинку</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Розміри в зібраному вигляді">116 х 145 х 61 см</param>
+                <param name="Вага">69 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Deluxe Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Підсвічування регуляторів">Так</param>
+                <param name="Рожен">Ні</param>
+                <param name="Закрита шафа для зберігання">Так</param>
+                <param name="Кількість дверцят шафи">2</param>
+                <param name="Колеса зі стопорами">Так</param>
+                <param name="Регульовані ніжки">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1456</id>
+            <code>G1-020</code>
+            <vendor_code>876283</vendor_code>
+            <title>Гриль газовий Broil King Baron 590 чорний (876283)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>91</weight>
+            <height>63.6</height>
+            <width>98.2</width>
+            <length>60.9</length>
+            <description>
+                <![CDATA[
+                <h5>Максимальна комплектація серії Baron</h5>
+                <br>
+                <p>Broil King Baron 590 — флагманська модель серії Baron з 5 пальниками Dual-Tube™ загальною потужністю 15,5 кВт. Велика решітка 81 × 44 см та рожен з горизонтальним пальником у базовій комплектації роблять цей гриль найповнішим у серії.</p>
+                <br>
+                <h5>П'ять чавунних решіток та система ароматизації</h5>
+                <br>
+                <p>П'ять двосторонніх чавунних решіток Flaw-R-Cast™ забезпечують велику площу приготування. П'ять аромапластин Flaw-R-Wave™ з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю. Решітка для підігріву площею 1 354,9 см² (79,7 × 17 см) тримає готові страви гарячими.</p>
+                <br>
+                <h5>Рожен та бічна конфорка в комплекті</h5>
+                <br>
+                <p>Рожен з горизонтальним пальником та електромотором входить до базової комплектації — для приготування цілої птиці та великих шматків м'яса. Бічна конфорка потужністю 2,7 кВт дозволяє одночасно готувати соуси або підігрівати страви.</p>
+                <br>
+                <h5>Підсвічування та зручність</h5>
+                <br>
+                <p>Підсвічування всіх регуляторів Linear-Flow™ Sensi-Touch™ робить гриль зручним у будь-який час доби. Закрита шафа з двома дверцятами, складні полиці з гачками та колеса зі стопорами — все для максимального комфорту.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_05-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/876283_06-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">5</param>
+                <param name="Потужність основних пальників">15,5 кВт</param>
+                <param name="Потужність бічної конфорки">2,7 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Покриття решітки для підігріву">Порцелянове</param>
+                <param name="Розміри основних решіток">81 х 44 см</param>
+                <param name="Площа решітки для підігріву">1 354,9 см²</param>
+                <param name="Розміри решітки для підігріву">79,7 х 17 см</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з покриттям із цинку</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Розміри в зібраному вигляді">116 х 165 х 61 см</param>
+                <param name="Вага">91 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Deluxe Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Рожен">Так</param>
+                <param name="Горизонтальний пальник рожна">Так</param>
+                <param name="Підсвічування регуляторів">Так</param>
+                <param name="Закрита шафа для зберігання">Так</param>
+                <param name="Кількість дверцят шафи">2</param>
+                <param name="Колеса зі стопорами">Так</param>
+                <param name="Регульовані ніжки">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1457</id>
+            <code>G1-021</code>
+            <vendor_code>698583</vendor_code>
+            <title>Гриль газовий Broil King Imperial QS 590 IR сріблястий (698583)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>117</weight>
+            <height>67.1</height>
+            <width>103</width>
+            <length>125.1</length>
+            <description>
+                <![CDATA[
+                <h5>Преміум гриль з інфрачервоним пальником та рожном</h5>
+                <br>
+                <p>Broil King Imperial QS 590 IR — флагманська модель серії Imperial з 5 пальниками Dual-Tube™ із нержавіючої сталі та загальною потужністю 16,1 кВт. Інфрачервоний бічний пальник забезпечує миттєвий жар для ідеальної скоринки на стейках, а рожен з горизонтальним пальником 4,4 кВт входить до базової комплектації.</p>
+                <br>
+                <h5>Решітки з литої нержавіючої сталі</h5>
+                <br>
+                <p>На відміну від чавунних решіток у серії Baron, Imperial QS 590 IR оснащений масивними решітками з литої нержавіючої сталі товщиною 9 мм — вони не потребують сезонування та легші в обслуговуванні. Загальна площа приготування — 4 500 см². Система аромапластин Flaw-R-Wave™ з нержавіючої сталі запобігає спалахам і насичує страву ароматом барбекю.</p>
+                <br>
+                <h5>Корпус з нержавіючої сталі та висувні ящики</h5>
+                <br>
+                <p>Міцний корпус повністю з нержавіючої сталі забезпечує довговічність та стійкість до корозії. Два висувних ящики замість стандартних дверцят забезпечують зручний доступ до балону та аксесуарів. Бічні стаціонарні столики з підставками та гачками доповнюють ергономіку гриля.</p>
+                <br>
+                <h5>Точний контроль та підсвічування</h5>
+                <br>
+                <p>Підсвічування всіх регуляторів та внутрішнє освітлення камери роблять гриль зручним у будь-який час доби. Регулятори Linear-Flow™ Sensi-Touch™ забезпечують плавне та точне налаштування температури в кожній зоні незалежно.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/698583_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/698583_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/698583_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/698583_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/698583_05-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">5</param>
+                <param name="Загальна потужність">16,1 кВт</param>
+                <param name="Тип бічного пальника">Інфрачервоний</param>
+                <param name="Потужність горизонтального пальника рожна">4,4 кВт</param>
+                <param name="Матеріал решіток">Нержавіюча сталь лита</param>
+                <param name="Товщина решіток">9 мм</param>
+                <param name="Загальна площа приготування">4 500 см²</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Вага">117 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Deluxe Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Рожен">Так</param>
+                <param name="Горизонтальний пальник рожна">Так</param>
+                <param name="Підсвічування регуляторів">Так</param>
+                <param name="Внутрішнє освітлення камери">Так</param>
+                <param name="Висувні ящики">Так</param>
+                <param name="Колір">Сріблястий</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1458</id>
+            <code>G1-022</code>
+            <vendor_code>921953</vendor_code>
+            <title>Гриль газовий Broil King Baron 320 чорний (921953)</title>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>56</weight>
+            <height>63.6</height>
+            <width>80</width>
+            <length>60.9</length>
+            <description>
+                <![CDATA[
+                <h5>Доступний гриль серії Baron для невеликої компанії</h5>
+                <br>
+                <p>Broil King Baron 320 — компактний газовий гриль американського складання з 3 пальниками Dual-Tube™ загальною потужністю 8,8 кВт. Ідеальний вибір для балкона або невеликої тераси — поєднує компактні габарити з легендарною кулінарною системою Broil King.</p>
+                <br>
+                <h5>Чавунні решітки та система ароматизації</h5>
+                <br>
+                <p>Двосторонні чавунні решітки Flaw-R-Cast™ рівномірно накопичують і віддають тепло, залишаючи характерні смуги на продуктах. Три аромапластини Flaw-R-Wave™ з нержавіючої сталі випаровують краплі жиру, насичуючи страву ароматом барбекю та зменшуючи кількість спалахів.</p>
+                <br>
+                <h5>Бічна конфорка та складні полиці</h5>
+                <br>
+                <p>Бічна конфорка потужністю 2,7 кВт дозволяє одночасно готувати соуси або підігрівати страви. Складні бічні полиці економлять місце при зберіганні та транспортуванні гриля.</p>
+                <br>
+                <h5>Якість американського виробництва</h5>
+                <br>
+                <p>Електронна система підпалу Sure-Lite™ та регулятори подачі газу Linear-Flow™ Sensi-Touch™ забезпечують точний контроль температури. Підсвічування регуляторів та вбудований термометр Accu-Temp™ роблять приготування зручним у будь-який час доби.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/921953_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921953_02-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921953_03-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921953_04-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/921953_05-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Потужність основних пальників">8,8 кВт</param>
+                <param name="Потужність бічної конфорки">2,7 кВт</param>
+                <param name="Матеріал решіток">Чавун</param>
+                <param name="Матеріал корпусу">Нержавіюча сталь</param>
+                <param name="Матеріал корпусу">Литий алюміній</param>
+                <param name="Матеріал корпусу">Сталь з покриттям із цинку</param>
+                <param name="Матеріал корпусу">Пластик</param>
+                <param name="Вага">56 кг</param>
+                <param name="Система підпалу">Sure-Lite™ (електронна)</param>
+                <param name="Регулятори подачі газу">Linear-Flow™ Sensi-Touch™</param>
+                <param name="Термометр">Accu-Temp™</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Підсвічування регуляторів">Так</param>
+                <param name="Рожен">Ні</param>
+                <param name="Складні бічні полиці">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
