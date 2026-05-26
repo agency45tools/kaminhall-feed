@@ -1596,5 +1596,59 @@
                 <param name="Країна виробництва">Канада</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1599</id>
+            <code>AG-150</code>
+            <vendor_code>68592</vendor_code>
+            <title>Чохол Broil King Premium для вбудованих грилів серії 590 (68592)</title>
+            <barcode>60162685927</barcode>
+            <category>Чохли для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1</weight>
+            <height>31</height>
+            <width>24.5</width>
+            <length>11.5</length>
+            <description>
+                <![CDATA[
+                <h5>Преміальний захист для вбудованих грилів серії 590</h5>
+                <br>
+                <p>Чохол Broil King Premium 68592 виготовлений з вологостійкого ПВХ з підкладкою з щільного поліестеру 900D. Він забезпечує надійний захист від дощу, снігу, вітру та ультрафіолету для вбудованих грилів серії 590 — Imperial 590, Baron 590, Regal 590 та Regal S520.</p>
+                <br>
+                <h5>Продумана конструкція</h5>
+                <br>
+                <p>Сітчасті вентиляційні отвори забезпечують циркуляцію повітря і запобігають накопиченню вологи всередині. Застібки-липучки velcro по периметру гарантують щільне прилягання чохла до гриля навіть у вітряну погоду. Синє декоративне строчення підкреслює преміальну якість виробу.</p>
+                <br>
+                <h5>Зручність використання</h5>
+                <br>
+                <p>Формовані гумові ручки дозволяють легко знімати чохол навіть після тривалого зберігання. Зміцнені шви витримують тривале використання та механічні навантаження. Чохол зберігає форму і не деформується з часом.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Чохол підходить для вбудованих газових грилів: Broil King Imperial 590 Built-In, Baron 590, Regal 590 та Regal S520 Built-In. Розміри чохла: 88,9 × 66 × 121 см.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/68592_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/68592_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чохол для гриля</param>
+                <param name="Матеріал">ПВХ з поліестером 900D</param>
+                <param name="Розміри чохла">88,9 х 66 х 121 см</param>
+                <param name="Застібки">Velcro (липучки)</param>
+                <param name="Вентиляція">Сітчасті отвори</param>
+                <param name="Ручки">Формовані гумові</param>
+                <param name="Сумісність">Broil King Imperial 590 Built-In</param>
+                <param name="Сумісність">Broil King Baron 590</param>
+                <param name="Сумісність">Broil King Regal 590</param>
+                <param name="Сумісність">Broil King Regal S520 Built-In</param>
+                <param name="Вага">1 кг</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
