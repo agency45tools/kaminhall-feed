@@ -4023,5 +4023,226 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1570</id>
+            <code>AG-201</code>
+            <vendor_code>11320</vendor_code>
+            <title>Решітки чавунні для гриля Broil King GEM Porta-Chef 2 шт (11320)</title>
+            <barcode>60162113208</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>3</weight>
+            <height>3</height>
+            <width>49</width>
+            <length>33</length>
+            <description>
+                <![CDATA[
+                <h5>Оригінальні чавунні решітки для GEM та Porta-Chef</h5>
+                <br>
+                <p>Комплект з 2 чавунних решіток Broil King 11320 — оригінальна заміна для портативних грилів серії GEM та Porta-Chef. Виготовлені за технологією Flaw-R-Cast™ — масивні, двосторонні, з матовим порцеляновим покриттям. Розмір кожної решітки 47,2 × 31 см.</p>
+                <br>
+                <h5>Двосторонні для максимальної універсальності</h5>
+                <br>
+                <p>Ребриста сторона залишає характерні смуги на стейках, котлетах та курці. Гладка — ідеальна для риби, морепродуктів та овочів. Чавун накопичує тепло і забезпечує стабільну температуру навіть при укладанні кількох холодних шматків одночасно.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King GEM 340, GEM 320, Porta-Chef 320. Комплект з 2 решіток повністю замінює стандартну комплектацію.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11320_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11320_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри однієї решітки">47,2 х 31 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Кількість у комплекті">2 шт</param>
+                <param name="Сумісність">Broil King GEM 340</param>
+                <param name="Сумісність">Broil King GEM 320</param>
+                <param name="Сумісність">Broil King Porta-Chef 320</param>
+                <param name="Вага">3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1643</id>
+            <code>AG-202</code>
+            <vendor_code>18010</vendor_code>
+            <title>Термометр для гриля Broil King малий (18010)</title>
+            <barcode>62703180106</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.1</weight>
+            <height>12</height>
+            <width>7</width>
+            <length>6</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний термометр для заміни або додаткового контролю</h5>
+                <br>
+                <p>Малий термометр Broil King 18010 з нержавіючої сталі — універсальний замінний або додатковий термометр для газових грилів. Встановлюється в стандартний отвір у кришці гриля і дозволяє постійно контролювати температуру всередині камери без підняття кришки.</p>
+                <br>
+                <h5>Нержавіюча сталь і точність вимірювання</h5>
+                <br>
+                <p>Корпус з нержавіючої сталі стійкий до корозії і перепадів температур. Циферблат добре читається навіть при яскравому сонячному освітленні. Підходить для тривалої роботи при температурах до 400°С.</p>
+                <br>
+                <h5>Універсальна сумісність</h5>
+                <br>
+                <p>Підходить для встановлення в більшість газових грилів зі стандартним отвором у кришці. Ідеальна заміна зношеного або пошкодженого термометра.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/18010_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/18010_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Термометр для гриля</param>
+                <param name="Розмір">Малий</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Діаметр циферблата">5,7 см</param>
+                <param name="Вага">0,1 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1644</id>
+            <code>AG-203</code>
+            <vendor_code>18013</vendor_code>
+            <title>Термометр для гриля Broil King великий (18013)</title>
+            <barcode>626821180136</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.15</weight>
+            <height>22.2</height>
+            <width>11.4</width>
+            <length>5</length>
+            <description>
+                <![CDATA[
+                <h5>Великий термометр для зручного читання показань</h5>
+                <br>
+                <p>Великий термометр Broil King 18013 з нержавіючої сталі — замінний або додатковий термометр для газових грилів з великим циферблатом діаметром 8,9 см. Великий розмір шкали дозволяє легко зчитувати температуру навіть з відстані та при яскравому освітленні.</p>
+                <br>
+                <h5>Точність та довговічність</h5>
+                <br>
+                <p>Корпус і циферблат з нержавіючої сталі стійкі до корозії, жиру та перепадів температур. Термометр витримує тривалу роботу при температурах до 400°С і зберігає точність протягом багатьох сезонів. Встановлюється в стандартний отвір у кришці гриля.</p>
+                <br>
+                <h5>Універсальна сумісність</h5>
+                <br>
+                <p>Підходить для встановлення в більшість газових та вугільних грилів зі стандартним отвором у кришці. Ідеальна заміна зношеного або пошкодженого термометра на грилях Broil King та інших брендів.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/18013_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/18013_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Термометр для гриля</param>
+                <param name="Розмір">Великий</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Діаметр циферблата">8,9 см</param>
+                <param name="Вага">0,15 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1645</id>
+            <code>AG-204</code>
+            <vendor_code>18429</vendor_code>
+            <title>Відсікач жару для гриля Broil King Sovereign Signet (18429)</title>
+            <barcode>626821184295</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>2.5</height>
+            <width>43.2</width>
+            <length>24.1</length>
+            <description>
+                <![CDATA[
+                <h5>Оригінальний відсікач жару для Sovereign та Signet</h5>
+                <br>
+                <p>Відсікач жару Broil King 18429 — оригінальна запасна частина для грилів серії Sovereign та Signet. Відсікачі встановлюються над пальниками і виконують дві функції: захищають пальники від жиру та рівномірно розподіляють жар по всій площі решітки.</p>
+                <br>
+                <h5>Принцип роботи</h5>
+                <br>
+                <p>Жир і соки, що стікають з продуктів, потрапляють на гарячі відсікачі і миттєво випаровуються, насичуючи страву ароматом барбекю. Саме цей процес відрізняє приготування на газовому грилі від звичайної плити і надає стравам характерний аромат.</p>
+                <br>
+                <h5>Сумісність та заміна</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Sovereign (всі моделі), Signet (всі моделі). Замінюється при деформації або значному зносі — зношені відсікачі погіршують рівномірність нагріву та збільшують кількість спалахів.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/18429_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/18429_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Відсікач жару</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Розміри">43,2 х 24,1 см</param>
+                <param name="Сумісність">Broil King Sovereign (всі моделі)</param>
+                <param name="Сумісність">Broil King Signet (всі моделі)</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1646</id>
+            <code>AG-205</code>
+            <vendor_code>50416</vendor_code>
+            <title>Набір одноразових деко Broil King 10 шт (50416)</title>
+            <barcode>62703504162</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>14</height>
+            <width>12</width>
+            <length>0.5</length>
+            <description>
+                <![CDATA[
+                <h5>Зручні одноразові деко для швидкого прибирання</h5>
+                <br>
+                <p>Набір з 10 одноразових деко Broil King 50416 — практичне рішення для підтримання чистоти гриля. Деко встановлюються під решіткою і збирають жир та соки під час приготування, запобігаючи забрудненню камери гриля і скорочуючи час прибирання після готування.</p>
+                <br>
+                <h5>Просто і практично</h5>
+                <br>
+                <p>Після завершення приготування деко просто виймається і викидається разом з накопиченим жиром — не потрібно відмивати дно камери гриля. Це особливо зручно при тривалому низькотемпературному приготуванні, коли виділяється багато жиру.</p>
+                <br>
+                <h5>Розміри та сумісність</h5>
+                <br>
+                <p>Підходять для грилів Broil King серій Baron та Crown. В наборі 10 штук — вистачає на весь сезон активного використання гриля.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/50416_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/50416_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Одноразові деко для гриля</param>
+                <param name="Кількість у наборі">10 шт</param>
+                <param name="Сумісність">Broil King Baron</param>
+                <param name="Сумісність">Broil King Crown</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
