@@ -2392,5 +2392,243 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1613</id>
+            <code>AG-166</code>
+            <vendor_code>62475</vendor_code>
+            <title>Прес для бургерів Broil King Deluxe (62475)</title>
+            <barcode>62703624754</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.5</weight>
+            <height>14.5</height>
+            <width>14.3</width>
+            <length>4.14</length>
+            <description>
+                <![CDATA[
+                <h5>Ідеальна котлета кожного разу</h5>
+                <br>
+                <p>Прес для бургерів Broil King Deluxe 62475 дозволяє формувати котлети трьох розмірів — 113 г (4 унції), 142 г (5 унцій) або 171 г (6 унцій). Направляючі кільця допомагають відміряти точну кількість фаршу перед пресуванням, щоразу отримуючи однакові котлети.</p>
+                <br>
+                <h5>Продуманий дизайн</h5>
+                <br>
+                <p>Прес робить невеликі заглиблення на поверхні котлети, які запобігають здуттю м'яса під час грилювання — котлета зберігає рівну форму і не перетворюється на кулю. Конструкція з двох частин легко розбирається для чищення. Можна мити в посудомийній машині.</p>
+                <br>
+                <h5>Матеріал та використання</h5>
+                <br>
+                <p>Виготовлений з харчового пластику, стійкого до механічних навантажень. Підходить для яловичини, свинини, курятини та вегетаріанських котлет. Компактний розмір 12 × 12 × 7 см зручний для зберігання.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/62475_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/62475_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Прес для бургерів</param>
+                <param name="Матеріал">Харчовий пластик</param>
+                <param name="Кількість розмірів котлет">3</param>
+                <param name="Розмір котлети 1">113 г (4 унції)</param>
+                <param name="Розмір котлети 2">142 г (5 унцій)</param>
+                <param name="Розмір котлети 3">171 г (6 унцій)</param>
+                <param name="Направляючі кільця">Так</param>
+                <param name="Кількість частин">2</param>
+                <param name="Розміри">12 х 12 х 7 см</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">0,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+                <param name="Країна виробництва">Канада</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1614</id>
+            <code>AG-167</code>
+            <vendor_code>69615</vendor_code>
+            <title>Стійка для ребер Broil King чавунна (69615)</title>
+            <barcode>60162696152</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1.5</weight>
+            <height>13.5</height>
+            <width>48.5</width>
+            <length>19</length>
+            <description>
+                <![CDATA[
+                <h5>Ідеальні ребра на будь-якому грилі</h5>
+                <br>
+                <p>Чавунна стійка для ребер Broil King 69615 дозволяє готувати кілька порцій реберець вертикально, економлячи місце на решітці. Вертикальне розміщення м'яса забезпечує рівномірне пропікання з усіх боків і кращу циркуляцію гарячого повітря навколо кожної порції.</p>
+                <br>
+                <h5>Чавун — кращий матеріал для стійких температур</h5>
+                <br>
+                <p>Чавун накопичує і рівномірно розподіляє тепло, підтримуючи стабільну температуру навіть при відкритті кришки гриля. Стійка стійка до деформацій при тривалому нагріванні і прослужить багато сезонів.</p>
+                <br>
+                <h5>Використання та догляд</h5>
+                <br>
+                <p>Підходить для свинячих, яловичих та баранячих реберець. Також можна використовувати для приготування курячих крилець або невеликих шматків м'яса у вертикальному положенні. Після використання дайте охолонути і промийте теплою водою з мийним засобом.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/69615_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/69615_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Стійка для ребер</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Розташування м'яса">Вертикальне</param>
+                <param name="Підходить для">Свинячі ребра</param>
+                <param name="Підходить для">Яловичі ребра</param>
+                <param name="Підходить для">Курячі крильця</param>
+                <param name="Вага">1,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1615</id>
+            <code>AG-168</code>
+            <vendor_code>63290</vendor_code>
+            <title>Планки для копчення Broil King клен 2 шт (63290)</title>
+            <barcode>60162632907</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.5</weight>
+            <height>18</height>
+            <width>38</width>
+            <length>1.26</length>
+            <description>
+                <![CDATA[
+                <h5>Делікатний солодкуватий аромат клена</h5>
+                <br>
+                <p>Планки для копчення Broil King 63290 з деревини клена — простий та ефективний спосіб надати страві характерного аромату копчення просто на грилі. Клен дає м'який, злегка солодкуватий дим, який чудово поєднується з птицею, свининою та рибою. В комплекті 2 планки.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть планки у воді, вині або пиві на 1-2 години. Покладіть замоченi планки на решітку гриля, встановіть продукти зверху і закрийте кришку. Дерево почне димитись і надавати страві аромат копчення. Одну планку можна використати повторно, якщо вона не повністю обвуглилась.</p>
+                <br>
+                <h5>Класика канадського барбекю</h5>
+                <br>
+                <p>Кленове дерево широко використовується в Канаді та США для копчення м'яса та риби. Особливо популярне для приготування лосося та форелі — м'який аромат клена підкреслює природний смак риби, не перебиваючи його.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/63290_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/63290_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Планки для копчення</param>
+                <param name="Деревина">Клен</param>
+                <param name="Кількість планок">2 шт</param>
+                <param name="Аромат">М'який, солодкуватий</param>
+                <param name="Підходить для">Птиця</param>
+                <param name="Підходить для">Свинина</param>
+                <param name="Підходить для">Риба</param>
+                <param name="Підходить для">Лосось</param>
+                <param name="Вага">0,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1616</id>
+            <code>AG-169</code>
+            <vendor_code>11242</vendor_code>
+            <title>Чавунна плита для гриля Broil King Baron 440/490/590 прямокутна (11242)</title>
+            <barcode>626821112427</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>3.5</weight>
+            <height>3</height>
+            <width>45.1</width>
+            <length>33.2</length>
+            <description>
+                <![CDATA[
+                <h5>Двостороння чавунна плита для серії Baron та Crown</h5>
+                <br>
+                <p>Чавунна плита Broil King 11242 розміром 44,1 × 32,2 см — повноцінна заміна секції решіток для серії Baron та Crown Pellet Grills. Одна сторона гладка для смаження яєць, риби та делікатних продуктів, інша — ребриста для отримання характерних смуг на стейках та овочах.</p>
+                <br>
+                <h5>Матеріал та покриття</h5>
+                <br>
+                <p>Виготовлена з високоякісного литого чавуну з матовим порцеляновим покриттям з усіх боків. Покриття захищає від корозії, забезпечує рівномірний розподіл тепла і не потребує додаткового сезонування перед використанням. Плита поступово нагрівається і довше зберігає тепло — ідеально для рівномірного приготування.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів серії Broil King Baron 440, Baron 490, Baron 590 та Crown Pellet Grills. Встановлюється замість однієї секції стандартних решіток.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11242_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11242_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чавунна плита для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри плити">44,1 х 32,2 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Поверхня 1">Гладка</param>
+                <param name="Поверхня 2">Ребриста</param>
+                <param name="Сумісність">Broil King Baron 440</param>
+                <param name="Сумісність">Broil King Baron 490</param>
+                <param name="Сумісність">Broil King Baron 590</param>
+                <param name="Сумісність">Broil King Crown Pellet Grills</param>
+                <param name="Вага">3,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1583</id>
+            <code>AG-170</code>
+            <vendor_code>64037</vendor_code>
+            <title>Щипці для гриля Broil King Baron трикутні 40,6 см (64037)</title>
+            <barcode>60162640377</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>44</height>
+            <width>6.5</width>
+            <length>4</length>
+            <description>
+                <![CDATA[
+                <h5>Точний контроль на безпечній відстані</h5>
+                <br>
+                <p>Щипці Broil King Baron 64037 довжиною 40,6 см (16 дюймів) дозволяють перевертати та переміщати продукти на грилі, тримаючи руки подалі від жару. Подовжена конструкція забезпечує максимальну безпеку, а трикутна форма кінців — точний захват навіть тонких шматків риби або овочів.</p>
+                <br>
+                <h5>Ергономіка та зручність</h5>
+                <br>
+                <p>М'яка силіконова ручка зручно лежить у долоні і не ковзає навіть вологими руками. Подвійні зубчасті кінці надійно утримують продукти різної форми. Вбудований підвісний гачок дозволяє зберігати щипці на гачку гриля або поруч з робочим місцем.</p>
+                <br>
+                <h5>Матеріал та догляд</h5>
+                <br>
+                <p>Корпус з нержавіючої сталі стійкий до корозії та легко миється. Силіконові елементи витримують температуру до 230°С. Можна мити в посудомийній машині.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/64037_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/64037_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Щипці для гриля</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Матеріал ручки">Силікон</param>
+                <param name="Довжина">40,6 см</param>
+                <param name="Форма кінців">Трикутна, подвійна зубчаста</param>
+                <param name="Підвісний гачок">Так</param>
+                <param name="Сумісність">Broil King Baron (всі моделі)</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
