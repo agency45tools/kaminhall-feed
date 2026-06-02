@@ -4244,5 +4244,222 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1647</id>
+            <code>AG-206</code>
+            <vendor_code>50417</vendor_code>
+            <title>Набір ємностей для збору жиру Broil King для пелетних грилів 3 шт (50417)</title>
+            <barcode>60162504174</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.2</weight>
+            <height>14</height>
+            <width>12</width>
+            <length>0.5</length>
+            <description>
+                <![CDATA[
+                <h5>Одноразові ємності для пелетних грилів</h5>
+                <br>
+                <p>Набір з 3 одноразових ємностей Broil King 50417 розміром 14,6 × 12,1 × 5,4 см — оригінальна заміна для жировловлювача пелетних грилів серії Pellet Pro XL та Pro 500. Просто вставте ємність у жировловлювач і замінюйте за потреби — без відмивання та чищення.</p>
+                <br>
+                <h5>Максимальна зручність обслуговування</h5>
+                <br>
+                <p>Одноразові ємності усувають найнеприємнішу частину обслуговування гриля — відмивання жировловлювача від застиглого жиру. Просто виймаєте ємність разом з накопиченим жиром і викидаєте. Тривалість використання однієї ємності — 6-8 тижнів активного приготування.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить виключно для пелетних грилів Broil King: Pellet Pro XL та Pro 500 серії. Набір містить 3 ємності.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/50417_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/50417_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Одноразові ємності для жиру</param>
+                <param name="Кількість у наборі">3 шт</param>
+                <param name="Розміри ємності">14,6 х 12,1 х 5,4 см</param>
+                <param name="Сумісність">Broil King Pellet Pro XL</param>
+                <param name="Сумісність">Broil King Pellet Pro 500</param>
+                <param name="Вага">0,2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1648</id>
+            <code>AG-207</code>
+            <vendor_code>50419</vendor_code>
+            <title>Набір ємностей з фольги Broil King 15,2х35,5х3,8 см 3 шт (50419)</title>
+            <barcode>60162504198</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.2</weight>
+            <height>4</height>
+            <width>16</width>
+            <length>37</length>
+            <description>
+                <![CDATA[
+                <h5>Вузькі фольгові ємності для непрямого приготування</h5>
+                <br>
+                <p>Набір з 3 фольгових ємностей Broil King 50419 розміром 15,2 × 35,5 × 3,8 см — багатофункціональний аксесуар для газового гриля. Ємності можна використовувати як жировловлювачі під решіткою або як посуд для непрямого приготування страв на грилі.</p>
+                <br>
+                <h5>Два способи використання</h5>
+                <br>
+                <p>Як жировловлювач — вставте ємність у піддон гриля і замінюйте раз на 6-8 тижнів без відмивання. Як посуд для непрямого приготування — наповніть водою і помістіть у гриль для підтримання вологості при тривалому приготуванні або для надання аромату стравам.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходять для більшості газових грилів Broil King зі стандартним піддоном для збору жиру. Набір містить 3 ємності.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/50419_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/50419_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Фольгові ємності для гриля</param>
+                <param name="Кількість у наборі">3 шт</param>
+                <param name="Розміри ємності">15,2 х 35,5 х 3,8 см</param>
+                <param name="Використання">Жировловлювач</param>
+                <param name="Використання">Непряме приготування</param>
+                <param name="Вага">0,2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1649</id>
+            <code>AG-208</code>
+            <vendor_code>60009</vendor_code>
+            <title>Силіконовий мат для бокових столиків Broil King (60009)</title>
+            <barcode>60162600098</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>38</height>
+            <width>28</width>
+            <length>1</length>
+            <description>
+                <![CDATA[
+                <h5>Захист бокового столика від подряпин та жиру</h5>
+                <br>
+                <p>Силіконовий мат Broil King 60009 — захисний килимок для бокових столиків газового гриля. Мат захищає поверхню столика від подряпин при укладанні посуду та інструментів, а також від потрапляння жиру і маринаду безпосередньо на поверхню столика.</p>
+                <br>
+                <h5>Термостійкість та зручність</h5>
+                <br>
+                <p>Силікон витримує температури до 230°С — мат не деформується і не плавиться навіть у безпосередній близькості від гарячого гриля. Антиковзна поверхня утримує посуд і інструменти на місці. Легко миється під водою або в посудомийній машині.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для бокових столиків грилів Broil King серій Baron та Crown. Надає грилю акуратного і завершеного вигляду.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60009_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60009_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Силіконовий мат для гриля</param>
+                <param name="Матеріал">Силікон</param>
+                <param name="Максимальна температура">230°С</param>
+                <param name="Антиковзна поверхня">Так</param>
+                <param name="Розміри">38 х 28 см</param>
+                <param name="Сумісність">Broil King Baron</param>
+                <param name="Сумісність">Broil King Crown</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1650</id>
+            <code>AG-209</code>
+            <vendor_code>60745</vendor_code>
+            <title>Знімач грат для гриля Broil King (60745)</title>
+            <barcode>60162607455</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.2</weight>
+            <height>27.5</height>
+            <width>3.5</width>
+            <length>5</length>
+            <description>
+                <![CDATA[
+                <h5>Безпечне знімання гарячих решіток та планч</h5>
+                <br>
+                <p>Знімач грат Broil King 60745 — незамінний інструмент для безпечного знімання та встановлення гарячих чавунних решіток і планч. Замість того щоб обпалювати руки або використовувати рушник, просто зачепіть гачок знімача за решітку і безпечно підніміть її.</p>
+                <br>
+                <h5>Простота та надійність</h5>
+                <br>
+                <p>Ергономічна конструкція дозволяє легко захоплювати решітки і планчі різних форм. Матеріал витримує контакт з гарячими поверхнями і не деформується. Інструмент компактний і зручно зберігається на гачку гриля.</p>
+                <br>
+                <h5>Широка сумісність</h5>
+                <br>
+                <p>Підходить для всіх чавунних решіток і планч Broil King — 11221, 11222, 11223, 11228, 11229, 11237, 11239, 11242 та інших. Входить до базової комплектації деяких моделей грилів Broil King.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60745_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60745_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Знімач грат</param>
+                <param name="Призначення">Знімання гарячих решіток та планч</param>
+                <param name="Сумісність">Всі чавунні решітки та планчі Broil King</param>
+                <param name="Вага">0,2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1651</id>
+            <code>AG-210</code>
+            <vendor_code>60934</vendor_code>
+            <title>Ліхтарик для гриля Broil King (60934)</title>
+            <barcode>60162609343</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.15</weight>
+            <height>17.5</height>
+            <width>9.5</width>
+            <length>5</length>
+            <description>
+                <![CDATA[
+                <h5>Підсвічування гриля для вечірнього приготування</h5>
+                <br>
+                <p>Ліхтарик Broil King 60934 — практичний аксесуар для освітлення камери гриля у вечірній та нічний час. Встановлюється безпосередньо на гриль і освітлює робочу поверхню, дозволяючи контролювати ступінь готовності страв без додаткового освітлення.</p>
+                <br>
+                <h5>Зручність використання</h5>
+                <br>
+                <p>Ліхтарик легко кріпиться і знімається без інструментів. Компактний розмір не заважає під час приготування. Підходить для використання у будь-яку погоду — захищений від бризок та вологи.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для більшості моделей газових грилів Broil King. Ідеальне доповнення для тих, хто любить готувати після заходу сонця.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60934_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60934_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Ліхтарик для гриля</param>
+                <param name="Захист від вологи">Так</param>
+                <param name="Вага">0,15 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
