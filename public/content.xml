@@ -3315,5 +3315,241 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1629</id>
+            <code>AG-186</code>
+            <vendor_code>64032</vendor_code>
+            <title>Щипці для барбекю Broil King 45 см (64032)</title>
+            <barcode>60162640322</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>44</height>
+            <width>6.5</width>
+            <length>4</length>
+            <description>
+                <![CDATA[
+                <h5>Надійні щипці для впевненого захоплення</h5>
+                <br>
+                <p>Щипці Broil King 64032 довжиною 45 см — базовий і надійний інструмент для приготування на грилі. Рельєфна кромка губок щільно захоплює шматки м'яса, риби та овочів, не даючи їм зісковзнути. Довга ручка тримає руки на безпечній відстані від жару решітки.</p>
+                <br>
+                <h5>Ергономіка та зручність</h5>
+                <br>
+                <p>Силіконові вставки на ручках забезпечують комфортний хват навіть вологими руками. Пружинний механізм автоматично розкриває губки після стиснення — не потрібно тримати щипці постійно напруженими. Підвісний гачок дозволяє зберігати їх на гачку гриля.</p>
+                <br>
+                <h5>Матеріал та догляд</h5>
+                <br>
+                <p>Корпус з нержавіючої сталі стійкий до корозії та легко миється. Підходить для миття в посудомийній машині. Універсальний інструмент для будь-якого типу гриля.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/64032_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/64032_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Щипці для гриля</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Матеріал ручки">Силікон</param>
+                <param name="Довжина">45 см</param>
+                <param name="Пружинний механізм">Так</param>
+                <param name="Підвісний гачок">Так</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1630</id>
+            <code>AG-187</code>
+            <vendor_code>60528</vendor_code>
+            <title>Рукавички шкіряні для гриля Broil King 2 шт (60528)</title>
+            <barcode>60162605284</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.4</weight>
+            <height>41</height>
+            <width>17</width>
+            <length>4.5</length>
+            <description>
+                <![CDATA[
+                <h5>Надійний захист рук від жару гриля</h5>
+                <br>
+                <p>Шкіряні рукавички Broil King 60528 — міцний захисний аксесуар для безпечного приготування на грилі. Товста натуральна шкіра надійно захищає руки від опіків при переміщенні решіток, гарячих ємностей та аксесуарів. В комплекті 2 рукавички.</p>
+                <br>
+                <h5>Комфорт та захист одночасно</h5>
+                <br>
+                <p>М'яка підкладка всередині забезпечує комфортне відчуття при носінні і додатково ізолює тепло. Рукавички достатньо довгі, щоб захистити не тільки долоню, але і зап'ястя від бризок жиру і жару. Шкіра залишається еластичною навіть після тривалого використання.</p>
+                <br>
+                <h5>Застосування</h5>
+                <br>
+                <p>Ідеально підходять для переміщення решіток гриля, чавунних плит, підставок для ребер та інших гарячих аксесуарів. Також зручні при роботі з вугіллям і розпалюванні гриля. Підходять для будь-якого типу гриля — газового, вугільного або пелетного.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60528_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60528_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Рукавички для гриля</param>
+                <param name="Матеріал">Натуральна шкіра</param>
+                <param name="Підкладка">М'яка</param>
+                <param name="Кількість у комплекті">2 шт</param>
+                <param name="Захист від опіків">Так</param>
+                <param name="Вага">0,4 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1631</id>
+            <code>AG-188</code>
+            <vendor_code>67487</vendor_code>
+            <title>Чохол Broil King Select для грилів Baron 490/440/420 Crown 490/440/420 Signet 390/340/320 (67487)</title>
+            <barcode>60162674877</barcode>
+            <category>Чохли для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1</weight>
+            <height>31</height>
+            <width>24.5</width>
+            <length>11.5</length>
+            <description>
+                <![CDATA[
+                <h5>Надійний захист за доступною ціною</h5>
+                <br>
+                <p>Чохол Broil King Select 67487 — більш доступна альтернатива чохлу Premium для тих самих моделей грилів. Виготовлений з водостійкого ПВХ з поліестеровою підкладкою, він захищає гриль від дощу, снігу, пилу та ультрафіолету протягом усього сезону.</p>
+                <br>
+                <h5>Точна відповідність розмірам</h5>
+                <br>
+                <p>Чохол розроблений спеціально для грилів Baron 490/440/420, Crown 490/440/420, Signet 390/340/320 та Sovereign 90 — щільно облягає корпус і надійно захищає від непогоди. Застібки по периметру фіксують чохол навіть у вітряну погоду.</p>
+                <br>
+                <h5>Зручність використання</h5>
+                <br>
+                <p>Легкий і компактний чохол зручно знімати та надягати. Підходить для цілорічного зберігання гриля на відкритому повітрі або під навісом.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/67487_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/67487_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чохол для гриля</param>
+                <param name="Серія">Select</param>
+                <param name="Матеріал">ПВХ з поліестером</param>
+                <param name="Сумісність">Broil King Baron 490</param>
+                <param name="Сумісність">Broil King Baron 440</param>
+                <param name="Сумісність">Broil King Baron 420</param>
+                <param name="Сумісність">Broil King Crown 490</param>
+                <param name="Сумісність">Broil King Crown 440</param>
+                <param name="Сумісність">Broil King Crown 420</param>
+                <param name="Сумісність">Broil King Signet 390</param>
+                <param name="Сумісність">Broil King Signet 340</param>
+                <param name="Сумісність">Broil King Signet 320</param>
+                <param name="Сумісність">Broil King Sovereign 90</param>
+                <param name="Вага">1 кг</param>
+                <param name="Колір">Чорний</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1632</id>
+            <code>AG-189</code>
+            <vendor_code>60181</vendor_code>
+            <title>Коробка для копчення на пелетах Broil King сталева (60181)</title>
+            <barcode>62703601816</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>13</height>
+            <width>36</width>
+            <length>4.5</length>
+            <description>
+                <![CDATA[
+                <h5>Аромат копчення з пелетами — швидко і просто</h5>
+                <br>
+                <p>Коробка для копчення на пелетах Broil King 60181 з нержавіючої сталі — найшвидший спосіб додати аромат диму до страви на газовому грилі. На відміну від щепи, пелети не потребують замочування — просто насипте їх у коробку і встановіть на аромапластини Flav-R-Wave або решітку.</p>
+                <br>
+                <h5>Переваги пелет перед щепою</h5>
+                <br>
+                <p>Пелети починають димити швидше за щепу — вже через 3-5 хвилин після розігріву гриля. Вони горять рівномірніше і довше, що забезпечує стабільний аромат копчення протягом всього часу приготування. Ідеально для швидких страв — стейків, риби, курячих грудок.</p>
+                <br>
+                <h5>Матеріал та догляд</h5>
+                <br>
+                <p>Коробка з нержавіючої сталі стійка до корозії та високих температур. Після охолодження легко виймається та миється. Підходить для всіх видів пелет для копчення: яблуня, вишня, гікорі, клен, дуб.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60181_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60181_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Коробка для копчення</param>
+                <param name="Тип палива">Пелети</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Замочування не потрібне">Так</param>
+                <param name="Підходить для пелет">Яблуня</param>
+                <param name="Підходить для пелет">Вишня</param>
+                <param name="Підходить для пелет">Гікорі</param>
+                <param name="Підходить для пелет">Клен</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1594</id>
+            <code>AG-190</code>
+            <vendor_code>69818</vendor_code>
+            <title>Вок перфорований глибокий Broil King (69818)</title>
+            <barcode>60162698187</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1</weight>
+            <height>25.5</height>
+            <width>43</width>
+            <length>9</length>
+            <description>
+                <![CDATA[
+                <h5>Глибокий вок для овочів та морепродуктів на грилі</h5>
+                <br>
+                <p>Перфорований глибокий вок Broil King 69818 — ідеальний інструмент для приготування овочів, морепродуктів і дрібних шматків м'яса прямо на решітці гриля. Численні отвори забезпечують циркуляцію гарячого повітря і диму навколо продуктів, зберігаючи характерний аромат барбекю.</p>
+                <br>
+                <h5>Глибина для більшого об'єму</h5>
+                <br>
+                <p>На відміну від плоского деко, глибокий вок дозволяє перемішувати продукти просто на грилі, не боячись що вони впадуть. Великий об'єм вміщує достатньо овочів або морепродуктів для великої компанії. Зручні ручки з обох боків забезпечують безпечне переміщення навіть при повному завантаженні.</p>
+                <br>
+                <h5>Матеріал та догляд</h5>
+                <br>
+                <p>Виготовлений зі сталі — рівномірно розподіляє тепло і витримує тривале нагрівання. Легко миється після використання. Підходить для всіх типів газових та вугільних грилів.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/69818_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/69818_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Вок перфорований для гриля</param>
+                <param name="Форма">Глибокий вок</param>
+                <param name="Матеріал">Сталь</param>
+                <param name="Перфорація">Так</param>
+                <param name="Ручки">Так</param>
+                <param name="Підходить для">Овочі</param>
+                <param name="Підходить для">Морепродукти</param>
+                <param name="Підходить для">Гриби</param>
+                <param name="Вага">1 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
