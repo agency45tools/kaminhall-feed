@@ -1932,5 +1932,239 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1605</id>
+            <code>AG-156</code>
+            <vendor_code>64003</vendor_code>
+            <title>Набір інструментів для гриля Broil King Baron 4 предмети (64003)</title>
+            <barcode>60162640032</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1.7</weight>
+            <height>56.5</height>
+            <width>28</width>
+            <length>3.5</length>
+            <description>
+                <![CDATA[
+                <h5>Повний набір для грилювання серії Baron</h5>
+                <br>
+                <p>Набір інструментів Broil King Baron 64003 включає все необхідне для повноцінного грилювання: широку лопатку, щипці з замком, силіконовий пензлик для змащування та щітку для чищення решіток. Інструменти виготовлені з високоякісної нержавіючої сталі і чудово гармонують з грилями серії Baron.</p>
+                <br>
+                <h5>Ергономічні ручки та надійна конструкція</h5>
+                <br>
+                <p>Ручки з м'якого термостійкого силікону забезпечують зручне та безпечне утримання під час приготування. Конструкція з прямокутним перерізом підвищує жорсткість інструментів і запобігає скручуванню під навантаженням. Щітка для чищення оснащена інтегрованим захисником від бруду.</p>
+                <br>
+                <h5>Матеріали та догляд</h5>
+                <br>
+                <p>Нержавіюча сталь стійка до корозії, легко миється та не вбирає запахи. Силіконові елементи витримують температуру до 230°С. Набір зберігається в компактній упаковці, яку зручно тримати на полиці або повісити на гачок.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/64003_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/64003_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Набір інструментів для гриля</param>
+                <param name="Кількість предметів">4</param>
+                <param name="Склад набору">Лопатка</param>
+                <param name="Склад набору">Щипці з замком</param>
+                <param name="Склад набору">Силіконовий пензлик</param>
+                <param name="Склад набору">Щітка для чищення решіток</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Матеріал ручок">Силікон термостійкий</param>
+                <param name="Вага">1,7 кг</param>
+                <param name="Сумісність">Broil King Baron (всі моделі)</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1606</id>
+            <code>AG-157</code>
+            <vendor_code>11239</vendor_code>
+            <title>Чавунна плита для гриля Broil King Imperial XL прямокутна (11239)</title>
+            <barcode>626821112397</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>4.6</weight>
+            <height>2</height>
+            <width>50</width>
+            <length>30.5</length>
+            <description>
+                <![CDATA[
+                <h5>Двостороння чавунна плита для максимальної універсальності</h5>
+                <br>
+                <p>Чавунна плита Broil King 11239 розміром 49,5 × 30,5 см — повноцінна заміна сковороді прямо на грилі. Одна сторона гладка для смаження яєць, риби та делікатних продуктів, інша — ребриста для отримання характерних смуг на стейках та овочах.</p>
+                <br>
+                <h5>Матеріал та покриття</h5>
+                <br>
+                <p>Виготовлена з високоякісного литого чавуну з матовим порцеляновим покриттям з усіх боків. Покриття захищає від корозії, забезпечує рівномірний розподіл тепла і не потребує додаткового сезонування перед використанням. Плита акумулює тепло і підтримує стабільну температуру приготування.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Imperial, Regal, Regal Pellet, Smoke Offset, Smoke Grill. Встановлюється замість стандартних решіток на систему Flav-R-Wave.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11239_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11239_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чавунна плита для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри плити">49,5 х 30,5 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Поверхня 1">Гладка</param>
+                <param name="Поверхня 2">Ребриста</param>
+                <param name="Сумісність">Broil King Imperial</param>
+                <param name="Сумісність">Broil King Regal</param>
+                <param name="Сумісність">Broil King Regal Pellet</param>
+                <param name="Сумісність">Broil King Smoke Offset</param>
+                <param name="Сумісність">Broil King Smoke Grill</param>
+                <param name="Вага">4,6 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1573</id>
+            <code>AG-158</code>
+            <vendor_code>69814</vendor_code>
+            <title>Керамічна плита для піци Broil King 38 см (69814)</title>
+            <barcode>60162698149</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1.5</weight>
+            <height>43</height>
+            <width>43</width>
+            <length>5</length>
+            <description>
+                <![CDATA[
+                <h5>Піца з хрусткою скоринкою прямо з гриля</h5>
+                <br>
+                <p>Керамічна плита Broil King 69814 діаметром 38,1 см дозволяє готувати піцу з ідеальною хрусткою скоринкою прямо на газовому грилі. Кераміка рівномірно поглинає і розподіляє тепло, випаровуючи зайву вологу з тіста — точно як у справжній дровяній печі.</p>
+                <br>
+                <h5>Властивості матеріалу</h5>
+                <br>
+                <p>Товста кераміка накопичує велику кількість тепла і підтримує стабільну температуру навіть при відкритті кришки гриля. Пориста структура не накопичує вологу і стійка до температурних перепадів — плита не тріскається від різкого нагріву. Підходить також для випічки хліба, фокачі та інших виробів з тіста.</p>
+                <br>
+                <h5>Використання та догляд</h5>
+                <br>
+                <p>Розмістіть плиту на решітці гриля і прогрійте протягом 15-20 хвилин перед укладанням піци. Після використання дайте плиті охолонути природним чином і протріть вологою тканиною без миючих засобів. Підходить для більшості газових та вугільних грилів з решіткою від 38 см.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/69814_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/69814_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Плита для піци</param>
+                <param name="Матеріал">Кераміка</param>
+                <param name="Діаметр">38,1 см</param>
+                <param name="Форма">Кругла</param>
+                <param name="Вага">1,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1607</id>
+            <code>AG-159</code>
+            <vendor_code>60190</vendor_code>
+            <title>Коробка для копчення Broil King сталева (60190)</title>
+            <barcode>60162601903</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.5</weight>
+            <height>13</height>
+            <width>36</width>
+            <length>4.5</length>
+            <description>
+                <![CDATA[
+                <h5>Ефект копчення на будь-якому газовому грилі</h5>
+                <br>
+                <p>Коробка для копчення Broil King 60190 з нержавіючої сталі дозволяє отримати характерний аромат копчення на будь-якому газовому грилі. Просто замочіть щепу у воді на 30 хвилин, помістіть її в коробку і встановіть на аромапластини Flav-R-Wave або безпосередньо на решітку.</p>
+                <br>
+                <h5>Два відділення для максимального аромату</h5>
+                <br>
+                <p>Коробка має два відділення: одне для щепи, інше для рідини (вода, вино, пиво або сік). Рідина випаровується разом з димом від щепи, надаючи страві додаткові смакові відтінки. Перфорована кришка рівномірно розподіляє дим по всій камері гриля.</p>
+                <br>
+                <h5>Матеріал та догляд</h5>
+                <br>
+                <p>Виготовлена з нержавіючої сталі — стійка до корозії та високих температур. Легко миється після використання. Підходить для всіх грилів Broil King, а також для більшості інших газових грилів.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/60190_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/60190_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Коробка для копчення</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Кількість відділень">2</param>
+                <param name="Відділення для щепи">Так</param>
+                <param name="Відділення для рідини">Так</param>
+                <param name="Перфорована кришка">Так</param>
+                <param name="Вага">0,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1608</id>
+            <code>AG-160</code>
+            <vendor_code>63220</vendor_code>
+            <title>Набір для копчення Broil King деревина гікорі 750 г (63220)</title>
+            <barcode>60162632204</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.8</weight>
+            <height>33.5</height>
+            <width>8.5</width>
+            <length>4.5</length>
+            <description>
+                <![CDATA[
+                <h5>Класичний аромат гікорі для м'яса та птиці</h5>
+                <br>
+                <p>Набір для копчення Broil King 63220 містить 750 г щепи з деревини гікорі — одного з найпопулярніших видів деревини для копчення у США. Гікорі дає щільний, насичений аромат з легкою горіховою нотою, який ідеально підходить для свинини, яловичини, птиці та ковбас.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть щепу у воді або пиві на 30 хвилин. Відкиньте зайву рідину і помістіть щепу в коробку для копчення Broil King (60190 або 60185). Встановіть коробку на аромапластини Flav-R-Wave або на решітку гриля і закрийте кришку. Щепа почне димитись через 5-10 хвилин після розігріву.</p>
+                <br>
+                <h5>Поєднання з продуктами</h5>
+                <br>
+                <p>Гікорі — універсальний вибір для більшості м'ясних страв. Найкраще розкривається з реберцями, брискетом, цілою куркою та індичкою. Для більш делікатного аромату можна змішувати щепу гікорі з яблунею або вишнею у пропорції 1:1.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/63220_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/63220_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Щепа для копчення</param>
+                <param name="Деревина">Гікорі</param>
+                <param name="Вага щепи">750 г</param>
+                <param name="Аромат">Насичений, з горіховою ноткою</param>
+                <param name="Підходить для">Свинина</param>
+                <param name="Підходить для">Яловичина</param>
+                <param name="Підходить для">Птиця</param>
+                <param name="Підходить для">Ковбаси</param>
+                <param name="Вага">0,8 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
