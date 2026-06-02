@@ -3788,5 +3788,240 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1638</id>
+            <code>AG-196</code>
+            <vendor_code>11223</vendor_code>
+            <title>Чавунна плита для гриля Broil King Monarch двостороння 37х27 см (11223)</title>
+            <barcode>626821112236</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>3</weight>
+            <height>3</height>
+            <width>39</width>
+            <length>29</length>
+            <description>
+                <![CDATA[
+                <h5>Двостороння планча для серії Monarch</h5>
+                <br>
+                <p>Чавунна плита Broil King 11223 розміром 37 × 27 см — двостороння планча для грилів серії Monarch. Встановлюється замість однієї секції стандартних решіток і відкриває нові можливості: гладка сторона для яєць, оладок та риби, ребриста — для стейків з апетитними смугами.</p>
+                <br>
+                <h5>Переваги чавуну</h5>
+                <br>
+                <p>Чавун з матовим порцеляновим покриттям поступово нагрівається і довго утримує стабільну температуру. Покриття захищає від корозії і не потребує сезонування перед першим використанням. Плита стійка до деформацій при тривалому нагріванні.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів серії Broil King Monarch (всі моделі). Встановлюється замість однієї секції стандартних чавунних решіток.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11223_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11223_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чавунна плита для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри плити">37 х 27 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Поверхня 1">Гладка</param>
+                <param name="Поверхня 2">Ребриста</param>
+                <param name="Сумісність">Broil King Monarch (всі моделі)</param>
+                <param name="Вага">3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1639</id>
+            <code>AG-197</code>
+            <vendor_code>11228</vendor_code>
+            <title>Решітки чавунні для гриля Broil King Crown Signet 2 шт (11228)</title>
+            <barcode>626821112281</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>5</weight>
+            <height>3</height>
+            <width>66</width>
+            <length>46</length>
+            <description>
+                <![CDATA[
+                <h5>Комплект з двох чавунних решіток для Crown та Signet</h5>
+                <br>
+                <p>Чавунні решітки Broil King 11228 — комплект з 2 двосторонніх решіток Flaw-R-Cast™ для грилів серії Crown та Signet. Масивний чавун з матовим порцеляновим покриттям забезпечує рівномірний жар і характерні смуги на стейках, а плоска сторона підходить для риби та делікатних продуктів.</p>
+                <br>
+                <h5>Технологія Flaw-R-Cast™</h5>
+                <br>
+                <p>Двосторонні решітки виготовлені за патентованою технологією Broil King: масивний чавун накопичує велику кількість тепла і підтримує стабільну температуру навіть при укладанні кількох холодних шматків одночасно. Порцелянове покриття захищає від корозії і спрощує очищення.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Crown (всі моделі), Signet (всі моделі). Комплект з 2 решіток повністю замінює стандартну комплектацію.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11228_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11228_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Двостороння">Так</param>
+                <param name="Кількість у комплекті">2 шт</param>
+                <param name="Сумісність">Broil King Crown (всі моделі)</param>
+                <param name="Сумісність">Broil King Signet (всі моделі)</param>
+                <param name="Вага">5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1640</id>
+            <code>AG-198</code>
+            <vendor_code>11229</vendor_code>
+            <title>Решітка чавунна для гриля Broil King Regal Imperial 48,9х15,5 см (11229)</title>
+            <barcode>626821112298</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>2.5</weight>
+            <height>3</height>
+            <width>50</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>Оригінальна чавунна решітка для Regal та Imperial</h5>
+                <br>
+                <p>Чавунна решітка Broil King 11229 розміром 48,9 × 15,5 см — оригінальна запасна або додаткова решітка для грилів серії Regal та Imperial. Виготовлена за технологією Flaw-R-Cast™ — масивна, двостороння, з матовим порцеляновим покриттям для захисту від корозії.</p>
+                <br>
+                <h5>Максимальне накопичення тепла</h5>
+                <br>
+                <p>Масивний чавун накопичує велику кількість тепла і підтримує стабільну температуру поверхні при приготуванні. Ребриста сторона залишає характерні смуги на стейках і курці, гладка — ідеальна для риби, морепродуктів та овочів.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Regal 420, 440, 490, 490 PRO (2010 і новіше), Imperial 490, XL (2009 і новіше), Regal Pellet, Smoke Offset, Smoke Grill.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11229_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11229_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри">48,9 х 15,5 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Кількість у комплекті">1 шт</param>
+                <param name="Сумісність">Broil King Regal 420/440/490</param>
+                <param name="Сумісність">Broil King Imperial 490/XL</param>
+                <param name="Сумісність">Broil King Regal Pellet</param>
+                <param name="Сумісність">Broil King Smoke Offset</param>
+                <param name="Вага">2,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1641</id>
+            <code>AG-199</code>
+            <vendor_code>11237</vendor_code>
+            <title>Планча для гриля Broil King GEM Porta-Chef двостороння чавунна 34,5х26,5 см (11237)</title>
+            <barcode>60162112379</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>2</weight>
+            <height>3</height>
+            <width>36</width>
+            <length>28</length>
+            <description>
+                <![CDATA[
+                <h5>Компактна планча для портативних грилів</h5>
+                <br>
+                <p>Чавунна планча Broil King 11237 розміром 34,5 × 26,5 см — двостороння плита з матовим порцеляновим покриттям для портативних грилів GEM та Porta-Chef. Встановлюється замість секції решіток і відкриває можливості повноцінного смаження: бургерів, котлет, яєць, оладок та овочів прямо на грилі.</p>
+                <br>
+                <h5>Дві робочі поверхні</h5>
+                <br>
+                <p>Гладка сторона ідеальна для яєць, млинців, риби та морепродуктів. Ребриста — для м'яса з характерними смугами та апетитною скоринкою. Чавун поступово нагрівається і довго утримує стабільну температуру — навіть у холодну погоду.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Porta-Chef 320, GEM 340, GEM 320. Можна використовувати зі знімачем решітки Broil King 60745.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11237_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11237_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Планча для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри">34,5 х 26,5 х 2 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Поверхня 1">Гладка</param>
+                <param name="Поверхня 2">Ребриста</param>
+                <param name="Сумісність">Broil King Porta-Chef 320</param>
+                <param name="Сумісність">Broil King GEM 340</param>
+                <param name="Сумісність">Broil King GEM 320</param>
+                <param name="Вага">2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1642</id>
+            <code>AG-200</code>
+            <vendor_code>11250</vendor_code>
+            <title>Планча чавунна Broil King на бічний пальник (11250)</title>
+            <barcode>62703112503</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>2</weight>
+            <height>32.5</height>
+            <width>27.3</width>
+            <length>1.35</length>
+            <description>
+                <![CDATA[
+                <h5>Чавунна планча для бічного пальника гриля</h5>
+                <br>
+                <p>Планча Broil King 11250 — спеціальна чавунна плита для встановлення на бічний пальник газового гриля. Замість звичайної бічної конфорки для соусів тепер можна готувати яєчню, підігрівати хліб, смажити бекон або готувати невеликі порції безпосередньо на бічній поверхні гриля.</p>
+                <br>
+                <h5>Розширені можливості бічного пальника</h5>
+                <br>
+                <p>Планча встановлюється замість стандартної решітки бічної конфорки і перетворює її на повноцінну поверхню для смаження. Чавун рівномірно розподіляє тепло від пальника і утримує стабільну температуру навіть при невеликій потужності.</p>
+                <br>
+                <h5>Матеріал та сумісність</h5>
+                <br>
+                <p>Виготовлена з якісного чавуну з порцеляновим покриттям. Підходить для газових грилів Broil King з бічною конфоркою. Легко встановлюється і знімається без інструментів.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11250_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11250_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Планча для бічного пальника</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове</param>
+                <param name="Призначення">Бічний пальник гриля</param>
+                <param name="Підходить для">Газові грилі Broil King з бічною конфоркою</param>
+                <param name="Вага">2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
