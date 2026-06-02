@@ -3551,5 +3551,242 @@
                 <param name="Гарантія">12 місяців</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>1633</id>
+            <code>AG-191</code>
+            <vendor_code>11124</vendor_code>
+            <title>Решітка чавунна для гриля Broil King Sovereign 90 (11124)</title>
+            <barcode>626821111246</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>2</weight>
+            <height>3</height>
+            <width>45</width>
+            <length>23</length>
+            <description>
+                <![CDATA[
+                <h5>Оригінальна чавунна решітка для Sovereign</h5>
+                <br>
+                <p>Чавунна решітка Broil King 11124 розміром 43,4 × 21,1 см — оригінальна запасна або додаткова решітка для грилів серії Sovereign. Виготовлена за технологією Flaw-R-Cast™ — масивна, двостороння, з матовим порцеляновим покриттям для захисту від корозії.</p>
+                <br>
+                <h5>Переваги чавуну</h5>
+                <br>
+                <p>Чавун накопичує і рівномірно розподіляє тепло, забезпечуючи стабільну температуру поверхні навіть при укладанні холодного м'яса. Ребриста поверхня залишає характерні смуги на стейках і курці. Плоска сторона підходить для риби, овочів та делікатних продуктів.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Sovereign 70, Sovereign 90, Sovereign 20, Regal XL (до 2008 року випуску), Broil-Mate 8200, Sterling 2900.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11124_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11124_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри">43,4 х 21,1 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Кількість у комплекті">1 шт</param>
+                <param name="Сумісність">Broil King Sovereign 70</param>
+                <param name="Сумісність">Broil King Sovereign 90</param>
+                <param name="Сумісність">Broil King Sovereign 20</param>
+                <param name="Сумісність">Broil King Regal XL (до 2008)</param>
+                <param name="Вага">2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1634</id>
+            <code>AG-192</code>
+            <vendor_code>11151</vendor_code>
+            <title>Решітка сталева для гриля Broil King Sovereign Regal (11151)</title>
+            <barcode>626821186510</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>1.5</weight>
+            <height>3</height>
+            <width>45</width>
+            <length>23</length>
+            <description>
+                <![CDATA[
+                <h5>Сталева альтернатива чавунній решітці для Sovereign</h5>
+                <br>
+                <p>Сталева решітка Broil King 11151 розміром 43,4 × 21,1 см — легша альтернатива чавунній для грилів серії Sovereign та Regal. Нержавіюча сталь швидше нагрівається і не потребує сезонування, при цьому забезпечує відмінні результати приготування.</p>
+                <br>
+                <h5>Переваги нержавіючої сталі</h5>
+                <br>
+                <p>Решітка з нержавіючої сталі стійка до корозії, легша за чавун і простіша в обслуговуванні. Вона швидко нагрівається до робочої температури і так само швидко охолоджується. Легко миється вручну або в посудомийній машині.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Sovereign (всі моделі), Regal (до 2007 року випуску).</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11151_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11151_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Розміри">43,4 х 21,1 см</param>
+                <param name="Кількість у комплекті">1 шт</param>
+                <param name="Сумісність">Broil King Sovereign (всі моделі)</param>
+                <param name="Сумісність">Broil King Regal (до 2007)</param>
+                <param name="Вага">1,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1635</id>
+            <code>AG-193</code>
+            <vendor_code>11153</vendor_code>
+            <title>Решітка сталева для гриля Broil King Imperial Regal (11153)</title>
+            <barcode>626821111536</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>2.6</weight>
+            <height>3</height>
+            <width>50</width>
+            <length>18</length>
+            <description>
+                <![CDATA[
+                <h5>Масивна сталева решітка 9 мм для Imperial та Regal</h5>
+                <br>
+                <p>Сталева решітка Broil King 11153 розміром 48,9 × 16,5 см виготовлена з нержавіючої сталі товщиною 9 мм — той самий матеріал, що використовується в решітках преміальних грилів серії Imperial QS. Масивні прутки акумулюють тепло і забезпечують відмінні смуги обсмаження на продуктах.</p>
+                <br>
+                <h5>Переваги товстої нержавіючої сталі</h5>
+                <br>
+                <p>На відміну від звичайних тонких решіток, 9-міліметрові прутки з нержавіючої сталі накопичують значну кількість тепла і не деформуються при тривалому нагріванні. Не потребують сезонування, стійкі до корозії і прості в обслуговуванні.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Imperial 400/500/XLS, Regal 400/500/XLS, Smoke Offset, Smoke Grill.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11153_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11153_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Товщина прутків">9 мм</param>
+                <param name="Розміри">48,9 х 16,5 см</param>
+                <param name="Кількість у комплекті">1 шт</param>
+                <param name="Сумісність">Broil King Imperial 400/500/XLS</param>
+                <param name="Сумісність">Broil King Regal 400/500/XLS</param>
+                <param name="Сумісність">Broil King Smoke Offset</param>
+                <param name="Сумісність">Broil King Smoke Grill</param>
+                <param name="Вага">2,6 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1636</id>
+            <code>AG-194</code>
+            <vendor_code>11220</vendor_code>
+            <title>Чавунна плита для гриля Broil King Sovereign прямокутна (11220)</title>
+            <barcode>626821112205</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>3.5</weight>
+            <height>2</height>
+            <width>44</width>
+            <length>21.5</length>
+            <description>
+                <![CDATA[
+                <h5>Двостороння чавунна плита для Sovereign</h5>
+                <br>
+                <p>Чавунна плита Broil King 11220 — двостороння планча для грилів серії Sovereign. Встановлюється замість однієї секції стандартних решіток і відкриває нові можливості приготування: гладка сторона для яєць, оладок і риби, ребриста — для стейків з характерними смугами.</p>
+                <br>
+                <h5>Матеріал та покриття</h5>
+                <br>
+                <p>Виготовлена з високоякісного литого чавуну з матовим порцеляновим покриттям. Чавун поступово нагрівається і довго утримує стабільну температуру — ідеально для рівномірного приготування. Порцелянове покриття захищає від корозії і не потребує сезонування.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів серії Broil King Sovereign (всі моделі). Встановлюється замість однієї секції стандартних чавунних решіток.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11220_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11220_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чавунна плита для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри плити">44 х 21,5 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Поверхня 1">Гладка</param>
+                <param name="Поверхня 2">Ребриста</param>
+                <param name="Сумісність">Broil King Sovereign (всі моделі)</param>
+                <param name="Вага">3,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>1637</id>
+            <code>AG-195</code>
+            <vendor_code>11222</vendor_code>
+            <title>Решітки чавунні для гриля Broil King Monarch Baron 2 шт (11222)</title>
+            <barcode>626821112229</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Broil King</brand>
+            <availability>Є в наявності</availability>
+            <weight>3</weight>
+            <height>3</height>
+            <width>39</width>
+            <length>29</length>
+            <description>
+                <![CDATA[
+                <h5>Комплект з двох чавунних решіток для Monarch та Baron</h5>
+                <br>
+                <p>Чавунні решітки Broil King 11222 розміром 37,5 × 27,3 см — комплект з 2 решіток для заміни або доповнення стандартної комплектації грилів Monarch та Baron. Виготовлені за технологією Flaw-R-Cast™ — масивні, двосторонні, з матовим порцеляновим покриттям.</p>
+                <br>
+                <h5>Переваги чавуну для щоденного грилювання</h5>
+                <br>
+                <p>Чавун накопичує велику кількість тепла і підтримує стабільну температуру навіть при укладанні кількох холодних шматків м'яса одночасно. Ребриста поверхня залишає апетитні смуги, плоска — ідеальна для риби та делікатних продуктів.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для грилів: Broil King Monarch (всі моделі), Baron 320, Baron 340. Комплект з 2 решіток повністю замінює стандартну комплектацію зазначених моделей.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://bbq.ua/image/cache/catalog/big/11222_01-1200x1200.jpg</picture>
+                <picture>https://bbq.ua/image/cache/catalog/big/11222_02-1200x1200.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Решітка для гриля</param>
+                <param name="Матеріал">Чавун</param>
+                <param name="Покриття">Порцелянове матове</param>
+                <param name="Розміри">37,5 х 27,3 см</param>
+                <param name="Двостороння">Так</param>
+                <param name="Кількість у комплекті">2 шт</param>
+                <param name="Сумісність">Broil King Monarch (всі моделі)</param>
+                <param name="Сумісність">Broil King Baron 320</param>
+                <param name="Сумісність">Broil King Baron 340</param>
+                <param name="Вага">3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
