@@ -4552,10 +4552,6 @@
                 &lt;p&gt;Дерев'яна ручка з масиву не деформується від вологи та жару. Насадка замінна — при зношуванні волокон можна встановити нову. Щітка зберігає ефективність протягом багатьох сезонів.&lt;/p&gt;
                 
             </description>
-            <image_link>
-                <picture>https://bbq.ua/image/cache/catalog/big/65228_01-1200x1200.jpg</picture>
-                <picture>https://bbq.ua/image/cache/catalog/big/65228_02-1200x1200.jpg</picture>
-            </image_link>
             <tags>
                 <param name="Тип товару">Щітка для чищення гриля</param>
                 <param name="Матеріал щетини">Натуральні волокна пальміри</param>
@@ -4566,7 +4562,7 @@
                 <param name="Вага">0,5 кг</param>
                 <param name="Гарантія">12 місяців</param>
             </tags>
-        </offer>
+        <image_link><picture>https://kaminhall-feed.vercel.app/images/65228/65228_01.png</picture></image_link></offer>
 
         <offer>
             <id>1605</id>
