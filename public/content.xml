@@ -5155,5 +5155,258 @@
                 <param name="Країна виробництва">США</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>2041</id>
+            <code>W1-011</code>
+            <vendor_code>1501460</vendor_code>
+            <title>Гриль-планча Weber SLATE GP 56 см Premium (1501460)</title>
+            <barcode>0077924902512</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>24</weight>
+            <height>36</height>
+            <width>60</width>
+            <length>100</length>
+            <description>
+                <![CDATA[
+                <h5>Середня планча серії SLATE з двома зонами нагріву</h5>
+                <br>
+                <p>Weber SLATE GP 56 Premium — двопальникова планча з робочою поверхнею 56 × 41 см та системою Dual-Zone для одночасного приготування на двох різних температурах. Потужність 4,7 кВт рівномірно нагріває всю поверхню до 260°C. Антипригарне фарфорове покриття готове до роботи без попередньої підготовки.</p>
+                <br>
+                <h5>Рівномірний нагрів та легке очищення</h5>
+                <br>
+                <p>Dual-Zone дозволяє смажити smash-бургери на сильному жарі зліва і повільно готувати овочі на помірному жарі справа — без компромісів. Жировловлювач з фронтальним розташуванням легко виймається і миється. Регульовані ніжки забезпечують стабільність на нерівній поверхні.</p>
+                <br>
+                <h5>Компактна та функціональна</h5>
+                <br>
+                <p>В закритому вигляді розміри 26 × 94 × 58 см — зручна для зберігання та транспортування. Сумісна з підставкою та полицею для інструментів Weber (продаються окремо). Гарантія 5 років.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501460-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип">Гриль-планча</param>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">2</param>
+                <param name="Загальна потужність">4,7 кВт</param>
+                <param name="Робоча поверхня">56 х 41 см</param>
+                <param name="Макс. температура">260°C</param>
+                <param name="Dual-Zone">Так</param>
+                <param name="Антипригарне покриття">Так (фарфорове)</param>
+                <param name="Розміри закрита">26 х 94 х 58 см</param>
+                <param name="Розміри відкрита">73 х 94 х 64 см</param>
+                <param name="Регульовані ніжки">Так</param>
+                <param name="Вага">24 кг</param>
+                <param name="Гарантія">5 років</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2042</id>
+            <code>W1-012</code>
+            <vendor_code>1501742</vendor_code>
+            <title>Гриль газовий Weber Traveler чорний (1501742)</title>
+            <barcode>77924909962</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>20</weight>
+            <height>109</height>
+            <width>56</width>
+            <length>38</length>
+            <description>
+                <![CDATA[
+                <h5>Повнорозмірний портативний Weber на колесах</h5>
+                <br>
+                <p>Weber Traveler — повнорозмірний портативний гриль з великою решіткою 63 × 34 см (2 142 см²) та одним потужним пальником 3,8 кВт. Вміщує до 15 бургерів одночасно — достатньо для компанії 3-4 осіб. Підставка-тележка на колесах дозволяє легко переміщати гриль без підняття.</p>
+                <br>
+                <h5>Автоматичне блокування кришки</h5>
+                <br>
+                <p>Унікальна система автоматичного блокування кришки фіксує її при складанні гриля — не потрібно окремих застібок. Гриль складається одним рухом і готовий до транспортування за 30 секунд. Чавунні решітки з фарфоровим покриттям рівномірно нагріваються і залишають характерні смуги на м'ясі.</p>
+                <br>
+                <h5>Weber Works сумісність</h5>
+                <br>
+                <p>Модель 2026 сумісна з аксесуарами системи Weber Works — можна кріпити додаткові полиці та інструменти. Підходить для кемпінгу, пікніків, дачі та балкону. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501742-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">1</param>
+                <param name="Потужність">3,8 кВт</param>
+                <param name="Матеріал решітки">Чавун з фарфоровим покриттям</param>
+                <param name="Площа решітки">63 х 34 см (2 142 см²)</param>
+                <param name="Підставка-тележка">Так (на колесах)</param>
+                <param name="Автоблокування кришки">Так</param>
+                <param name="Weber Works сумісність">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">20 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2043</id>
+            <code>W1-013</code>
+            <vendor_code>1501747</vendor_code>
+            <title>Гриль газовий Weber Traveler Compact чорний (1501747)</title>
+            <barcode>77924910012</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>18</weight>
+            <height>91</height>
+            <width>90</width>
+            <length>58</length>
+            <description>
+                <![CDATA[
+                <h5>Компактний Weber Traveler — ідеальний для кемпінгу</h5>
+                <br>
+                <p>Weber Traveler Compact — менша версія популярного Traveler з решіткою 46,5 × 33,5 см (1 557 см²) та одним пальником 3,2 кВт. Легша і компактніша, ніж повнорозмірний Traveler — ідеально для двох осіб або невеликої компанії. Вага 18 кг та підставка на колесах забезпечують зручне переміщення.</p>
+                <br>
+                <h5>Швидке складання та автоблокування</h5>
+                <br>
+                <p>Як і старший брат, Traveler Compact складається за 30 секунд з автоматичним блокуванням кришки. Чавунні решітки з фарфоровим покриттям швидко нагріваються і рівномірно розподіляють тепло. Електронна система підпалу запускає гриль натисканням однієї кнопки.</p>
+                <br>
+                <h5>Weber Works та оновлення 2026</h5>
+                <br>
+                <p>Модель 1501747 (2026) замінює попередній Traveler Compact 1500527 і додає сумісність з аксесуарами системи Weber Works. Конструкція та функціональність залишились незмінними. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501747-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">1</param>
+                <param name="Потужність">3,2 кВт</param>
+                <param name="Матеріал решітки">Чавун з фарфоровим покриттям</param>
+                <param name="Площа решітки">46,5 х 33,5 см (1 557 см²)</param>
+                <param name="Підставка-тележка">Так (на колесах)</param>
+                <param name="Автоблокування кришки">Так</param>
+                <param name="Weber Works сумісність">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">18 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2044</id>
+            <code>W1-014</code>
+            <vendor_code>1501949</vendor_code>
+            <title>Гриль газовий смарт Weber Genesis EPX-435 (1501949)</title>
+            <barcode>77924913372</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>100</weight>
+            <height>82</height>
+            <width>97</width>
+            <length>92</length>
+            <description>
+                <![CDATA[
+                <h5>Genesis EPX-435 — смарт-гриль з Wi-Fi термометром</h5>
+                <br>
+                <p>Weber Genesis EPX-435 — найбільш технологічний гриль серії Genesis з чотирма пальниками PureBlue, розширеною зоною Sear Zone (+50% потужності), бічною конфоркою та вбудованим Wi-Fi термометром Weber Connect. Площа решітки 86 × 48 см (4 168 см²) вміщує страву для 8-10 осіб.</p>
+                <br>
+                <h5>Weber Connect — готуйте ідеально щоразу</h5>
+                <br>
+                <p>Вбудований Wi-Fi термометр зі щупом підключається до додатку Weber Connect на смартфоні. Ви отримуєте сповіщення про попередній розігрів гриля, потрібний момент для перевертання та готовність страви — де б ви не були. Підсвічування NIGHTVISION освітлює всю поверхню решітки та регулятори для комфортного грилювання у вечірній час.</p>
+                <br>
+                <h5>Weber Crafted та максимальне оснащення</h5>
+                <br>
+                <p>Решітки Weber Crafted сумісні з повною екосистемою аксесуарів GBS. Загальна потужність 21,1 кВт (14 кВт основні + 3,52 кВт Sear Zone + 3,52 кВт бічна). Flavorizer Bars з нержавіючої сталі, бічна шафа, два складних столики. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501949-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">4</param>
+                <param name="Система пальників">PureBlue</param>
+                <param name="Потужність основних">14,07 кВт</param>
+                <param name="Sear Zone (+50% потужності)">3,52 кВт</param>
+                <param name="Потужність бічної конфорки">3,52 кВт</param>
+                <param name="Загальна потужність">21,1 кВт</param>
+                <param name="Weber Connect Wi-Fi термометр">Так</param>
+                <param name="Щуп для їжі">1 шт</param>
+                <param name="NIGHTVISION підсвічування">Так</param>
+                <param name="Решітки Weber Crafted">Так</param>
+                <param name="Площа основної решітки">4 168 см² (86 х 48 см)</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Бічна шафа">Так</param>
+                <param name="Flavorizer Bars">Нержавіюча сталь</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">100 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2045</id>
+            <code>W1-015</code>
+            <vendor_code>1501956</vendor_code>
+            <title>Гриль газовий смарт Weber Genesis EPX-335 (1501956)</title>
+            <barcode>77924913297</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>90</weight>
+            <height>92</height>
+            <width>66</width>
+            <length>77</length>
+            <description>
+                <![CDATA[
+                <h5>Genesis EPX-335 — три пальники та смарт-технології Weber</h5>
+                <br>
+                <p>Weber Genesis EPX-335 — трипальниковий смарт-гриль серії Genesis з інтегрованим Wi-Fi термометром Weber Connect, зоною Sear Station та бічною конфоркою. Решітки Weber Crafted 68 × 48 см сумісні з повною екосистемою аксесуарів Gourmet BBQ System.</p>
+                <br>
+                <h5>Weber Connect для точного контролю</h5>
+                <br>
+                <p>Wi-Fi термометр зі щупом підключається до додатку Weber Connect — отримуйте сповіщення про температуру їжі та момент подачі прямо на смартфон. Підсвічування NIGHTVISION освітлює всю поверхню гриля для комфортної роботи у темряві. Sear Station забезпечує інтенсивний жар для ресторанної скоринки.</p>
+                <br>
+                <h5>Повне оснащення Genesis</h5>
+                <br>
+                <p>Три пальники PureBlue, бічна конфорка, велика бічна шафа для аксесуарів, складна верхня решітка, Flavorizer Bars з нержавіючої сталі. Система збору жиру зі знімним лотком. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501956-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Система пальників">PureBlue</param>
+                <param name="Sear Station">Так</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Weber Connect Wi-Fi термометр">Так</param>
+                <param name="NIGHTVISION підсвічування">Так</param>
+                <param name="Решітки Weber Crafted">Так</param>
+                <param name="Площа решітки">68 х 48 см</param>
+                <param name="Складна верхня решітка">Так</param>
+                <param name="Бічна шафа">Так</param>
+                <param name="Flavorizer Bars">Нержавіюча сталь</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">90 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
