@@ -5408,5 +5408,433 @@
                 <param name="Країна виробництва">США</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>2046</id>
+            <code>W1-016</code>
+            <vendor_code>17619</vendor_code>
+            <title>Бруски для копчення Weber гікорі 1,5 кг (17619)</title>
+            <barcode>77924039461</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>1.5</weight>
+            <height>42</height>
+            <width>12</width>
+            <length>22</length>
+            <description>
+                <![CDATA[
+                <h5>Насичений аромат гікорі для м'яса та дичини</h5>
+                <br>
+                <p>Бруски Weber 17619 з деревини гікорі вагою 1,5 кг — класика американського копчення. Великі шматки деревини тліють повільно і рівномірно, забезпечуючи тривалий густий дим з інтенсивним, злегка солодкуватим ароматом. Ідеально для яловичини, свинини, дичини та птиці.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть бруски у воді на 1 годину. Розмістіть навколо страви на вугільному грилі або в коптильні. Бруски горять значно довше за щепу — один сеанс копчення може тривати 2-4 години стабільного диму.</p>
+                <br>
+                <h5>Натуральна деревина FSC</h5>
+                <br>
+                <p>Виготовлені з 100% натуральної деревини гікорі без хімічних добавок. Сертифіковані FSC — деревина з відповідально керованих лісів. Зберігаються в пакеті, що повторно закривається.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17619-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Бруски для копчення</param>
+                <param name="Деревина">Гікорі</param>
+                <param name="Вага">1,5 кг</param>
+                <param name="Аромат">Інтенсивний, злегка солодкуватий</param>
+                <param name="Підходить для">Яловичина, свинина, дичина, птиця</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2047</id>
+            <code>W1-017</code>
+            <vendor_code>17621</vendor_code>
+            <title>Чіпси для копчення Weber яблуко 700 г (17621)</title>
+            <barcode>77924039492</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.7</weight>
+            <height>32.5</height>
+            <width>12</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>М'який фруктовий аромат яблуні для птиці та риби</h5>
+                <br>
+                <p>Чіпси Weber 17621 з деревини яблуні 700 г — щепа з легким солодкуватим ароматом для делікатного копчення. Яблуня дає м'який фруктовий дим, який ідеально підходить для курки, качки, лосося, форелі та свинини.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть чіпси у воді на 30 хвилин. Помістіть в коробку для копчення Weber або алюмінієвий пакет з отворами і розмістіть на аромапластинах або решітці гриля. Підходить для газових, вугільних та пелетних грилів.</p>
+                <br>
+                <h5>Натуральна деревина FSC</h5>
+                <br>
+                <p>Виготовлені з 100% натуральної деревини яблуні без хімічних добавок. Сертифіковані FSC. Зберігаються в пакеті, що повторно закривається.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17621-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чіпси для копчення</param>
+                <param name="Деревина">Яблуня</param>
+                <param name="Вага">700 г</param>
+                <param name="Аромат">М'який, фруктовий, солодкуватий</param>
+                <param name="Підходить для">Птиця, риба, свинина</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2048</id>
+            <code>W1-018</code>
+            <vendor_code>17627</vendor_code>
+            <title>Чіпси для копчення Weber деревина віскі 700 г (17627)</title>
+            <barcode>77924039577</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.7</weight>
+            <height>32.5</height>
+            <width>12</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>Унікальний аромат бочок з-під віскі</h5>
+                <br>
+                <p>Чіпси Weber 17627 з деревини бочок з-під віскі 700 г — щепа з унікальним димним ароматом із легкими нотами карамелі та дуба. Деревина просочена залишками віскі під час витримки, що надає стравам особливий характер. Підходить для всіх видів м'яса та овочів.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть чіпси у воді або безпосередньо у віскі на 30 хвилин. Помістіть в коробку для копчення і розмістіть на грилі. Чіпси з бочок під віскі горять рівномірно і дають насичений ароматний дим.</p>
+                <br>
+                <h5>Продукт ЄС, сертифікат FSC</h5>
+                <br>
+                <p>Виготовлені в Євросоюзі з сертифікованої FSC деревини дубових бочок з-під віскі. Без хімічних добавок. Зберігаються в пакеті, що повторно закривається.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17627-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чіпси для копчення</param>
+                <param name="Деревина">Бочки з-під віскі (дуб)</param>
+                <param name="Вага">700 г</param>
+                <param name="Аромат">Димний, карамельний, дубовий</param>
+                <param name="Підходить для">Всі види м'яса, овочі</param>
+                <param name="Продукт ЄС">Так</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2065</id>
+            <code>W1-019</code>
+            <vendor_code>17664</vendor_code>
+            <title>Чіпси для копчення Weber до свинини 700 г (17664)</title>
+            <barcode>0077924048838</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.7</weight>
+            <height>32.5</height>
+            <width>12</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>Спеціальна суміш для свинини</h5>
+                <br>
+                <p>Чіпси Weber 17664 для копчення свинини 700 г — спеціально підібрана суміш деревини листяних та фруктових порід, яка ідеально розкриває смак свинячих реберець, шиї, лопатки та ковбасок. М'який, злегка солодкуватий аромат підкреслює природний смак свинини.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть чіпси у воді на 30 хвилин. Помістіть в коробку для копчення Weber і розмістіть на аромапластинах або решітці гриля. Підходить для газових, вугільних та пелетних грилів.</p>
+                <br>
+                <h5>Продукт ЄС, сертифікат FSC</h5>
+                <br>
+                <p>Суміш деревини листяних та фруктових порід, виготовлена в Євросоюзі. Сертифіковані FSC. Без хімічних добавок.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17664-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чіпси для копчення</param>
+                <param name="Суміш деревини">Листяні та фруктові породи</param>
+                <param name="Вага">700 г</param>
+                <param name="Підходить для">Свинина (реберця, шия, лопатка, ковбаски)</param>
+                <param name="Продукт ЄС">Так</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2066</id>
+            <code>W1-020</code>
+            <vendor_code>17665</vendor_code>
+            <title>Чіпси для копчення Weber до риби 700 г (17665)</title>
+            <barcode>0077924048845</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.7</weight>
+            <height>32.5</height>
+            <width>12</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>Делікатна суміш для риби та морепродуктів</h5>
+                <br>
+                <p>Чіпси Weber 17665 для копчення риби 700 г — спеціальна суміш деревини листяних та фруктових порід з м'яким, ненав'язливим ароматом. Підходить для лосося, форелі, морського окуня, скумбрії та морепродуктів — дим підкреслює природний смак риби, не перебиваючи його.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть чіпси у воді або білому вині на 20-30 хвилин. Помістіть в коробку для копчення і розмістіть на грилі. Для риби рекомендується використовувати менше щепи — достатньо невеликої жмені.</p>
+                <br>
+                <h5>Продукт ЄС, сертифікат FSC</h5>
+                <br>
+                <p>Суміш деревини листяних та фруктових порід, виготовлена в Євросоюзі. Сертифіковані FSC. Без хімічних добавок.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17665-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чіпси для копчення</param>
+                <param name="Суміш деревини">Листяні та фруктові породи</param>
+                <param name="Вага">700 г</param>
+                <param name="Підходить для">Риба, морепродукти</param>
+                <param name="Продукт ЄС">Так</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2069</id>
+            <code>W1-021</code>
+            <vendor_code>17685</vendor_code>
+            <title>Антипригарний кулінарний спрей Weber 200 мл (17685)</title>
+            <barcode>0077924051357</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.3</weight>
+            <height>25</height>
+            <width>8</width>
+            <length>5</length>
+            <description>
+                <![CDATA[
+                <h5>Антипригарний захист решіток та посуду</h5>
+                <br>
+                <p>Антипригарний кулінарний спрей Weber 17685 об'ємом 200 мл — зручний засіб для запобігання прилипанню їжі до решіток гриля, планч та посуду. Рівномірне нанесення спрею за лічені секунди замінює традиційне змащування пензликом.</p>
+                <br>
+                <h5>Застосування</h5>
+                <br>
+                <p>Нанесіть спрей на холодну або попередньо розігріту решітку гриля перед початком приготування. Підходить для чавунних та сталевих решіток, планч і посуду для гриля. Рекомендується також для обробки форм для випічки та сковорід.</p>
+                <br>
+                <h5>Склад та безпека</h5>
+                <br>
+                <p>Спрей на основі рослинної олії, безпечний для харчових поверхонь. Не містить шкідливих домішок. Зручний дозатор дозволяє рівномірно наносити мінімальну кількість олії без зайвого витрачання.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17685-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Антипригарний спрей</param>
+                <param name="Об'єм">200 мл</param>
+                <param name="Основа">Рослинна олія</param>
+                <param name="Підходить для">Решітки гриля, планчі, посуд</param>
+                <param name="Вага">0,3 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2070</id>
+            <code>W1-022</code>
+            <vendor_code>17833</vendor_code>
+            <title>Чіпси для копчення Weber до птиці 700 г (17833)</title>
+            <barcode>0077924083686</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.7</weight>
+            <height>32.5</height>
+            <width>12</width>
+            <length>17</length>
+            <description>
+                <![CDATA[
+                <h5>Спеціальна суміш для птиці</h5>
+                <br>
+                <p>Чіпси Weber 17833 для копчення птиці 700 г — спеціально підібрана суміш деревини, яка ідеально підкреслює смак курки, качки, індички та перепілок. М'який ароматний дим рівномірно проникає в м'ясо птиці, роблячи його соковитим та ароматним.</p>
+                <br>
+                <h5>Як використовувати</h5>
+                <br>
+                <p>Замочіть чіпси у воді на 30 хвилин. Помістіть в коробку для копчення Weber і розмістіть на аромапластинах або решітці гриля. Чіпси підходять для газових, вугільних та пелетних грилів.</p>
+                <br>
+                <h5>Натуральна деревина FSC</h5>
+                <br>
+                <p>Виготовлені з 100% натуральної деревини без хімічних добавок. Сертифіковані FSC. Зберігаються в пакеті, що повторно закривається.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/17833-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чіпси для копчення</param>
+                <param name="Вага">700 г</param>
+                <param name="Підходить для">Курка, качка, індичка, перепілка</param>
+                <param name="Сертифікат">FSC</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2071</id>
+            <code>W1-023</code>
+            <vendor_code>3400189</vendor_code>
+            <title>Чохол для грилів Weber Summit Stand-up Gas (3400189)</title>
+            <barcode>0077924996047</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.8</weight>
+            <height>25.6</height>
+            <width>18.5</width>
+            <length>10.2</length>
+            <description>
+                <![CDATA[
+                <h5>Захисний чохол для грилів Summit</h5>
+                <br>
+                <p>Чохол Weber 3400189 — оригінальний захисний чохол для газових грилів серії Summit Stand-up. Виготовлений з водостійкого матеріалу, захищає гриль від дощу, снігу, пилу та ультрафіолетового випромінювання протягом усього сезону.</p>
+                <br>
+                <h5>Матеріал та захист</h5>
+                <br>
+                <p>Чохол з міцного водостійкого матеріалу щільно облягає корпус гриля і надійно фіксується застібками. Дихаючий матеріал запобігає утворенню конденсату всередині. Підходить для цілорічного зберігання гриля на відкритому повітрі.</p>
+                <br>
+                <h5>Сумісність</h5>
+                <br>
+                <p>Підходить для газових грилів Weber серії Summit Stand-up Gas. Оригінальний аксесуар Weber.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/3400189-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чохол для гриля</param>
+                <param name="Матеріал">Водостійкий, дихаючий</param>
+                <param name="Сумісність">Weber Summit Stand-up Gas</param>
+                <param name="Вага">0,8 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2087</id>
+            <code>W1-024</code>
+            <vendor_code>3400519</vendor_code>
+            <title>Набір гачків для кухонного приладдя Weber Works 3 шт (3400519)</title>
+            <barcode>0077924889165</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.2</weight>
+            <height>16</height>
+            <width>7</width>
+            <length>3.8</length>
+            <description>
+                <![CDATA[
+                <h5>Організація інструментів поруч з грилем</h5>
+                <br>
+                <p>Набір Weber Works 3400519 містить 3 гачки для кріплення кухонного приладдя прямо на рамі гриля. Тримайте щипці, лопатку, пензлик та інші інструменти завжди під рукою — не потрібно шукати їх на столику або класти на землю.</p>
+                <br>
+                <h5>Система Weber Works</h5>
+                <br>
+                <p>Гачки розроблені спеціально для системи Weber Works і кріпляться на стандартні точки кріплення рами грилів серій Genesis, Spirit та інших з підтримкою Weber Works. Встановлюються і знімаються без інструментів.</p>
+                <br>
+                <h5>Матеріал та конструкція</h5>
+                <br>
+                <p>Виготовлені з нержавіючої сталі — стійкої до корозії та атмосферних впливів. Витримують значне навантаження і не деформуються. В наборі 3 гачки.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/3400519-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Гачки для інструментів</param>
+                <param name="Кількість">3 шт</param>
+                <param name="Матеріал">Нержавіюча сталь</param>
+                <param name="Система">Weber Works</param>
+                <param name="Сумісність">Genesis, Spirit та інші з Weber Works</param>
+                <param name="Вага">0,2 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2090</id>
+            <code>W1-025</code>
+            <vendor_code>3400852</vendor_code>
+            <title>Чохол для грилів Weber Q2100N Q2200N Q2800N (3400852)</title>
+            <barcode>0077924897122</barcode>
+            <category>Аксесуари для грилів</category>
+            <category_id>75_86</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>0.5</weight>
+            <height>19.1</height>
+            <width>10</width>
+            <length>6.5</length>
+            <description>
+                <![CDATA[
+                <h5>Захист від погоди для грилів серії Q 2000</h5>
+                <br>
+                <p>Чохол Weber Premium 3400852 — оригінальний захисний чохол для газових грилів Q2100N, Q2200N та Q2800N+. Водостійкий, стійкий до ультрафіолету та вітростійкий матеріал надійно захищає гриль від усіх погодних умов.</p>
+                <br>
+                <h5>Дихаючий матеріал</h5>
+                <br>
+                <p>На відміну від звичайних чохлів, Premium Cover від Weber виготовлений з дихаючого матеріалу — він запобігає утворенню конденсату та цвілі всередині чохла. Гриль залишається сухим і готовим до використання навіть після тривалого зберігання.</p>
+                <br>
+                <h5>Точна відповідність розмірам</h5>
+                <br>
+                <p>Чохол розроблений спеціально для грилів Q2100N, Q2200N та Q2800N+ і щільно облягає їх корпус. Оригінальний аксесуар Weber — гарантія якості та точної відповідності.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/3400852-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип товару">Чохол для гриля</param>
+                <param name="Серія">Premium Cover</param>
+                <param name="Матеріал">Водостійкий, дихаючий</param>
+                <param name="Захист від UV">Так</param>
+                <param name="Сумісність">Weber Q2100N</param>
+                <param name="Сумісність">Weber Q2200N</param>
+                <param name="Сумісність">Weber Q2800N+</param>
+                <param name="Вага">0,5 кг</param>
+                <param name="Гарантія">12 місяців</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
