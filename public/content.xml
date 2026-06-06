@@ -4949,5 +4949,211 @@
                 <param name="Країна виробництва">США</param>
             </tags>
         </offer>
+
+        <offer>
+            <id>2037</id>
+            <code>W1-007</code>
+            <vendor_code>1501308</vendor_code>
+            <title>Гриль газовий Weber Spirit E-335 (1501308)</title>
+            <barcode>0077924899898</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>56</weight>
+            <height>54</height>
+            <width>83</width>
+            <length>66</length>
+            <description>
+                <![CDATA[
+                <h5>Spirit E-335 — три пальники, Sear Zone та бічна конфорка</h5>
+                <br>
+                <p>Weber Spirit E-335 — розширена версія серії Spirit з трьома пальниками GS4, окремою зоною обсмаження Sear Zone та бічною конфоркою в базовій комплектації. Три незалежні пальники з нержавіючої сталі та велика решітка 68 × 48 см з чавуну дозволяють готувати повноцінну страву на 6-8 осіб.</p>
+                <br>
+                <h5>Sear Zone для ресторанної скоринки</h5>
+                <br>
+                <p>Зона Sear Zone генерує інтенсивний жар для отримання апетитної скоринки на стейках та іншому м'ясі — результат не гірший за ресторанний. Відсікачі Flavorizer Bars з нержавіючої сталі випаровують краплі жиру і надають стравам характерний аромат барбекю.</p>
+                <br>
+                <h5>Бічна конфорка та зручне зберігання</h5>
+                <br>
+                <p>Бічна конфорка дозволяє одночасно підігрівати соуси або готувати гарнір прямо біля гриля. Закрита шафа з пофарбованими сталевими дверцятами зберігає балон та аксесуари. Складні бічні столики з нержавіючої сталі. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501308-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Система пальників">GS4</param>
+                <param name="Зона обсмаження Sear Zone">Так</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Матеріал решітки">Чавун з фарфоровим покриттям</param>
+                <param name="Розміри решітки">68 х 48 см</param>
+                <param name="Flavorizer Bars">Нержавіюча сталь</param>
+                <param name="Закрита шафа">Так</param>
+                <param name="Складні бічні столики">Так</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">56 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2038</id>
+            <code>W1-008</code>
+            <vendor_code>1501314</vendor_code>
+            <title>Гриль газовий Weber Genesis E-335 (1501314)</title>
+            <barcode>0077924899256</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>85</weight>
+            <height>92</height>
+            <width>66</width>
+            <length>77</length>
+            <description>
+                <![CDATA[
+                <h5>Weber Genesis E-335 — флагман нового покоління</h5>
+                <br>
+                <p>Weber Genesis E-335 — один з найінноваційніших грилів за останні десятиліття. Три пальники PureBlue потужністю 11,4 кВт, зона Sear Station 3,8 кВт та бічна конфорка 3,5 кВт забезпечують загальну потужність 18,7 кВт. Решітки Weber Crafted 68 × 48 см (3 264 см²) сумісні з повною екосистемою аксесуарів Gourmet BBQ System.</p>
+                <br>
+                <h5>Weber Crafted та Sear Station</h5>
+                <br>
+                <p>Решітки Weber Crafted зі знімною секцією дозволяють встановлювати вок, чавунну сковороду, камінь для піци та інші аксесуари прямо в гриль. Зона Sear Station генерує інтенсивний жар для ідеальної скоринки. Складна верхня решітка створює другий рівень для одночасного приготування кількох страв.</p>
+                <br>
+                <h5>Преміум конструкція та зручність</h5>
+                <br>
+                <p>Розміри в зборі 157 × 78 × 158 см. Великий складний бічний столик, бічна шафа для аксесуарів, пофарбовані сталеві дверцята, підсвічування регуляторів. Flavorizer Bars з нержавіючої сталі. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501314-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">3</param>
+                <param name="Система пальників">PureBlue</param>
+                <param name="Потужність основних">11,4 кВт</param>
+                <param name="Потужність Sear Station">3,8 кВт</param>
+                <param name="Потужність бічної конфорки">3,5 кВт</param>
+                <param name="Загальна потужність">18,7 кВт</param>
+                <param name="Решітки Weber Crafted">Так</param>
+                <param name="Площа решітки">3 264 см² (68 х 48 см)</param>
+                <param name="Сумісність GBS">Так</param>
+                <param name="Sear Station">Так</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Складна верхня решітка">Так</param>
+                <param name="Бічна шафа">Так</param>
+                <param name="Розміри в зборі">157 х 78 х 158 см</param>
+                <param name="Вага">85 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2039</id>
+            <code>W1-009</code>
+            <vendor_code>1501318</vendor_code>
+            <title>Гриль газовий Weber Genesis E-435 (1501318)</title>
+            <barcode>0077924899393</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>95</weight>
+            <height>82</height>
+            <width>97</width>
+            <length>92</length>
+            <description>
+                <![CDATA[
+                <h5>Genesis E-435 — чотири пальники та подвійна Boost Zone</h5>
+                <br>
+                <p>Weber Genesis E-435 — 4-пальниковий флагман серії Genesis з інноваційною подвійною зоною Boost Zone, яка генерує на 35% більше потужності для отримання хрусткої скоринки ресторанного рівня на м'ясі, рибі та овочах. Чотири пальники PureBlue забезпечують рівномірний розподіл тепла по всій площі решітки.</p>
+                <br>
+                <h5>Weber Crafted та максимальна площа</h5>
+                <br>
+                <p>Решітки Weber Crafted сумісні з повною екосистемою аксесуарів Gourmet BBQ System — вок, чавунна сковорода, камінь для піци, планча та інші. Велика площа приготування дозволяє готувати для 8-10 осіб одночасно. Складна верхня решітка створює додатковий рівень для підігріву.</p>
+                <br>
+                <h5>Бічна конфорка та преміум оснащення</h5>
+                <br>
+                <p>Бічна конфорка для соусів та гарнірів, велика бічна шафа для аксесуарів, Flavorizer Bars з нержавіючої сталі, підсвічування регуляторів. Система збору жиру зі знімним лотком. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501318-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">4</param>
+                <param name="Система пальників">PureBlue</param>
+                <param name="Boost Zone (подвійна)">Так (+35% потужності)</param>
+                <param name="Решітки Weber Crafted">Так</param>
+                <param name="Сумісність GBS">Так</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Складна верхня решітка">Так</param>
+                <param name="Бічна шафа">Так</param>
+                <param name="Flavorizer Bars">Нержавіюча сталь</param>
+                <param name="Колір">Чорний</param>
+                <param name="Вага">95 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
+
+        <offer>
+            <id>2040</id>
+            <code>W1-010</code>
+            <vendor_code>1501320</vendor_code>
+            <title>Гриль газовий Weber Genesis SP-435 (1501320)</title>
+            <barcode>0077924899430</barcode>
+            <category>Газові грилі</category>
+            <category_id>75_85</category_id>
+            <brand>Weber</brand>
+            <availability>Є в наявності</availability>
+            <weight>100</weight>
+            <height>82</height>
+            <width>97</width>
+            <length>92</length>
+            <description>
+                <![CDATA[
+                <h5>Genesis SP-435 — преміум 4-пальниковий гриль з Sear Burner</h5>
+                <br>
+                <p>Weber Genesis SP-435 — топова модель серії Genesis з чотирма пальниками GS4 загальною потужністю 14 кВт та окремим пальником Sear Burner 3,1 кВт для екстремального жару. Масивні чавунні решітки 86 × 48 см системи GBS забезпечують найбільшу площу приготування в серії.</p>
+                <br>
+                <h5>Система GBS та Sear Burner</h5>
+                <br>
+                <p>Решітки GBS зі знімною центральною секцією сумісні з повним асортиментом аксесуарів Weber: вок, чавунна сковорода, ростер для курки, камінь для піци. Sear Burner генерує інтенсивний жар прямо в центрі решітки для ідеальної скоринки на товстих стейках та ребрах.</p>
+                <br>
+                <h5>Максимальне оснащення</h5>
+                <br>
+                <p>Бічна конфорка, велика бічна шафа для аксесуарів, два бічних столики з нержавіючої сталі, система GS4 з безвідмовним електронним підпалом. Flavorizer Bars з нержавіючої сталі. Знімний лоток для збору жиру. Гарантія 24 місяці.</p>
+                ]]>
+            </description>
+            <image_link>
+                <picture>https://grillhouse.ua/image/cache/catalog/1501320-800x800.jpg</picture>
+            </image_link>
+            <tags>
+                <param name="Тип палива">Газ</param>
+                <param name="Кількість пальників">4</param>
+                <param name="Система пальників">GS4</param>
+                <param name="Потужність основних">14 кВт</param>
+                <param name="Sear Burner">Так (3,1 кВт)</param>
+                <param name="Матеріал решітки">Чавун з фарфоровим покриттям</param>
+                <param name="Розміри решітки">86 х 48 см</param>
+                <param name="Система GBS">Так (знімна секція)</param>
+                <param name="Бічна конфорка">Так</param>
+                <param name="Бічна шафа">Так</param>
+                <param name="Два бічних столики">Нержавіюча сталь</param>
+                <param name="Flavorizer Bars">Нержавіюча сталь</param>
+                <param name="Колір">Чорний / Нержавіюча сталь</param>
+                <param name="Вага">100 кг</param>
+                <param name="Гарантія">24 місяці</param>
+                <param name="Країна виробництва">США</param>
+            </tags>
+        </offer>
     </offers>
 </Market>
