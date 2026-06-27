@@ -1,6 +1,6 @@
 {
   "total": 159,
-  "updatedAt": "2026-06-27T07:30:14Z",
+  "updatedAt": "2026-06-27T07:50:50Z",
   "data": [
     {
       "code": "AG-150",
@@ -1381,7 +1381,7 @@
       "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "days_to_dispatch": 1,
+      "days_to_dispatch": 2,
       "max_pay_in_parts": 12,
       "delivery_methods": [
         {
@@ -1394,10 +1394,6 @@
         },
         {
           "method": "nova-post:cargo_branch",
-          "price": 0
-        },
-        {
-          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -2676,7 +2672,7 @@
       "stock": 22,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "days_to_dispatch": 1,
+      "days_to_dispatch": 2,
       "max_pay_in_parts": 12,
       "delivery_methods": [
         {
@@ -2689,10 +2685,6 @@
         },
         {
           "method": "nova-post:cargo_branch",
-          "price": 0
-        },
-        {
-          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -4758,7 +4750,7 @@
       "stock": 53,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "days_to_dispatch": 1,
+      "days_to_dispatch": 2,
       "max_pay_in_parts": 12,
       "delivery_methods": [
         {
@@ -4771,10 +4763,6 @@
         },
         {
           "method": "nova-post:cargo_branch",
-          "price": 0
-        },
-        {
-          "method": "courier:nova-post",
           "price": 0
         }
       ],
