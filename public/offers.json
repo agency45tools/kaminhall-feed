@@ -1,6 +1,6 @@
 {
   "total": 159,
-  "updatedAt": "2026-07-09T07:18:29Z",
+  "updatedAt": "2026-07-10T07:40:42Z",
   "data": [
     {
       "code": "AG-150",
@@ -1161,7 +1161,7 @@
       "price": 4990,
       "old_price": null,
       "availability": true,
-      "stock": 7,
+      "stock": 4,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1183,7 +1183,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 7
+          "stock": 4
         }
       ]
     },
@@ -2422,7 +2422,7 @@
       "price": 48769,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2440,7 +2440,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 3
+          "stock": 1
         }
       ]
     },
@@ -2476,7 +2476,7 @@
       "price": 113519,
       "old_price": 126129,
       "availability": true,
-      "stock": 4,
+      "stock": 3,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2494,7 +2494,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 4
+          "stock": 3
         }
       ]
     },
@@ -2584,7 +2584,7 @@
       "price": 35699,
       "old_price": null,
       "availability": true,
-      "stock": 7,
+      "stock": 6,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2602,7 +2602,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 7
+          "stock": 6
         }
       ]
     },
