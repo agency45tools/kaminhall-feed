@@ -1,6 +1,6 @@
 {
   "total": 159,
-  "updatedAt": "2026-07-21T07:43:37Z",
+  "updatedAt": "2026-07-22T08:30:40Z",
   "data": [
     {
       "code": "AG-150",
@@ -2805,7 +2805,7 @@
       "price": 679,
       "old_price": null,
       "availability": true,
-      "stock": 22,
+      "stock": 20,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -2831,7 +2831,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 22
+          "stock": 20
         }
       ]
     },
@@ -4207,7 +4207,7 @@
       "price": 1009,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4233,7 +4233,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
