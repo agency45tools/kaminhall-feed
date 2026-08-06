@@ -1,13 +1,13 @@
 {
-  "total": 164,
-  "updatedAt": "2026-08-06T09:31:20Z",
+  "total": 165,
+  "updatedAt": "2026-08-06T09:37:23Z",
   "data": [
     {
-      "code": "G1-004",
-      "price": 59900,
+      "code": "G1-010",
+      "price": 26900,
       "old_price": null,
       "availability": true,
-      "stock": 7,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -25,7 +25,34 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 7
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "code": "G1-004",
+      "price": 59900,
+      "old_price": null,
+      "availability": true,
+      "stock": 6,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "days_to_dispatch": 2,
+      "max_pay_in_parts": 12,
+      "delivery_methods": [
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "manufacture": {
+        "country_code": "US",
+        "year": null
+      },
+      "warehouses": [
+        {
+          "id": "WH-01",
+          "stock": 6
         }
       ]
     },
