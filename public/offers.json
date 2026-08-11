@@ -1,6 +1,6 @@
 {
   "total": 165,
-  "updatedAt": "2026-08-11T10:38:55Z",
+  "updatedAt": "2026-08-11T11:36:11Z",
   "data": [
     {
       "code": "G1-010",
@@ -1846,8 +1846,8 @@
       "code": "AG-209",
       "price": 590,
       "old_price": null,
-      "availability": false,
-      "stock": 0,
+      "availability": true,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1873,7 +1873,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 0
+          "stock": 2
         }
       ]
     },
