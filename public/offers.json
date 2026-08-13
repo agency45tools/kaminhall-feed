@@ -1,6 +1,6 @@
 {
   "total": 165,
-  "updatedAt": "2026-08-11T11:36:11Z",
+  "updatedAt": "2026-08-13T07:11:52Z",
   "data": [
     {
       "code": "G1-010",
@@ -351,8 +351,8 @@
       "code": "AG-157",
       "price": 6590,
       "old_price": null,
-      "availability": false,
-      "stock": 0,
+      "availability": true,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -374,7 +374,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 0
+          "stock": 1
         }
       ]
     },
