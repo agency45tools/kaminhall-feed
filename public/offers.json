@@ -1,6 +1,6 @@
 {
   "total": 165,
-  "updatedAt": "2026-08-14T09:49:44Z",
+  "updatedAt": "2026-08-14T10:14:56Z",
   "data": [
     {
       "code": "G1-010",
@@ -34,7 +34,7 @@
       "price": 59900,
       "old_price": null,
       "availability": true,
-      "stock": 5,
+      "stock": 4,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -52,7 +52,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 5
+          "stock": 4
         }
       ]
     },
@@ -1358,7 +1358,7 @@
       "price": 5490,
       "old_price": null,
       "availability": true,
-      "stock": 2,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1380,7 +1380,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -1707,7 +1707,7 @@
       "price": 590,
       "old_price": null,
       "availability": true,
-      "stock": 4,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1733,7 +1733,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 4
+          "stock": 2
         }
       ]
     },
