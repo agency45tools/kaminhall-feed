@@ -1,6 +1,6 @@
 {
   "total": 165,
-  "updatedAt": "2026-08-21T10:39:19Z",
+  "updatedAt": "2026-08-22T07:55:10Z",
   "data": [
     {
       "code": "G1-010",
@@ -3770,8 +3770,8 @@
       "code": "W1-044",
       "price": 2496,
       "old_price": null,
-      "availability": true,
-      "stock": 1,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3797,7 +3797,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
