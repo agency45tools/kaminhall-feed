@@ -1,6 +1,6 @@
 {
   "total": 165,
-  "updatedAt": "2026-09-01T07:51:34Z",
+  "updatedAt": "2026-09-02T08:06:26Z",
   "data": [
     {
       "code": "G1-010",
@@ -61,7 +61,7 @@
       "price": 65900,
       "old_price": null,
       "availability": true,
-      "stock": 8,
+      "stock": 5,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -79,7 +79,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 8
+          "stock": 5
         }
       ]
     },
@@ -87,8 +87,8 @@
       "code": "G1-021",
       "price": 249900,
       "old_price": null,
-      "availability": true,
-      "stock": 1,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -106,7 +106,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -589,7 +589,7 @@
       "price": 890,
       "old_price": null,
       "availability": true,
-      "stock": 5,
+      "stock": 4,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -615,7 +615,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 5
+          "stock": 4
         }
       ]
     },
@@ -1707,7 +1707,7 @@
       "price": 590,
       "old_price": null,
       "availability": true,
-      "stock": 2,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1733,7 +1733,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -1882,7 +1882,7 @@
       "price": 1690,
       "old_price": null,
       "availability": true,
-      "stock": 7,
+      "stock": 6,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1908,7 +1908,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 7
+          "stock": 6
         }
       ]
     },
@@ -3002,7 +3002,7 @@
       "price": 936,
       "old_price": null,
       "availability": true,
-      "stock": 24,
+      "stock": 25,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3028,7 +3028,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 24
+          "stock": 25
         }
       ]
     },
@@ -4536,7 +4536,7 @@
       "price": 4188,
       "old_price": null,
       "availability": true,
-      "stock": 23,
+      "stock": 22,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4558,7 +4558,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 23
+          "stock": 22
         }
       ]
     },
@@ -4567,7 +4567,7 @@
       "price": 1482,
       "old_price": null,
       "availability": true,
-      "stock": 45,
+      "stock": 51,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4593,7 +4593,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 45
+          "stock": 51
         }
       ]
     },
@@ -4602,7 +4602,7 @@
       "price": 2076,
       "old_price": null,
       "availability": true,
-      "stock": 1,
+      "stock": 4,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4628,7 +4628,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 1
+          "stock": 4
         }
       ]
     },
@@ -4703,7 +4703,7 @@
       "price": 480,
       "old_price": null,
       "availability": true,
-      "stock": 52,
+      "stock": 56,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4729,7 +4729,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 52
+          "stock": 56
         }
       ]
     },
