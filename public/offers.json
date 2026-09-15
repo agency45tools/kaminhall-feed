@@ -1,6 +1,6 @@
 {
   "total": 166,
-  "updatedAt": "2026-09-14T08:36:45Z",
+  "updatedAt": "2026-09-15T08:52:45Z",
   "data": [
     {
       "code": "G1-010",
@@ -2719,7 +2719,7 @@
       "price": 45780,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2737,7 +2737,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
