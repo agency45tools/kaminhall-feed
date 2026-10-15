@@ -1,6 +1,6 @@
 {
   "total": 166,
-  "updatedAt": "2026-10-15T07:34:50Z",
+  "updatedAt": "2026-10-15T07:38:41Z",
   "data": [
     {
       "code": "G1-010",
@@ -658,8 +658,8 @@
       "code": "AG-170",
       "price": 950,
       "old_price": null,
-      "availability": false,
-      "stock": 0,
+      "availability": true,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -685,7 +685,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 0
+          "stock": 2
         }
       ]
     },
@@ -729,7 +729,7 @@
       "price": 3790,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -751,7 +751,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 9
+          "stock": 8
         }
       ]
     },
@@ -1125,7 +1125,7 @@
       "price": 2390,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1151,7 +1151,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
@@ -2220,7 +2220,7 @@
       "price": 2190,
       "old_price": null,
       "availability": true,
-      "stock": 8,
+      "stock": 9,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -2242,7 +2242,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 8
+          "stock": 9
         }
       ]
     },
@@ -2282,7 +2282,7 @@
       "price": 1090,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -2308,7 +2308,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 9
+          "stock": 8
         }
       ]
     },
