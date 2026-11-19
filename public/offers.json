@@ -1,6 +1,6 @@
 {
   "total": 166,
-  "updatedAt": "2026-11-18T09:39:25Z",
+  "updatedAt": "2026-11-19T08:26:59Z",
   "data": [
     {
       "code": "G1-010",
@@ -1847,7 +1847,7 @@
       "price": 590,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1873,7 +1873,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 9
+          "stock": 8
         }
       ]
     },
@@ -2530,7 +2530,7 @@
       "price": 29699,
       "old_price": 36919,
       "availability": true,
-      "stock": 17,
+      "stock": 18,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2548,14 +2548,14 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 17
+          "stock": 18
         }
       ]
     },
     {
       "code": "W1-006",
-      "price": 46410,
-      "old_price": null,
+      "price": 39449,
+      "old_price": 46410,
       "availability": true,
       "stock": 6,
       "warranty_type": "manufacturer",
@@ -2581,10 +2581,10 @@
     },
     {
       "code": "W1-007",
-      "price": 51210,
-      "old_price": null,
+      "price": 43529,
+      "old_price": 51210,
       "availability": true,
-      "stock": 9,
+      "stock": 10,
       "warranty_type": "manufacturer",
       "warranty_period": 24,
       "days_to_dispatch": 2,
@@ -2602,14 +2602,14 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 9
+          "stock": 10
         }
       ]
     },
     {
       "code": "W1-008",
-      "price": 116184,
-      "old_price": null,
+      "price": 98759,
+      "old_price": 116184,
       "availability": true,
       "stock": 2,
       "warranty_type": "manufacturer",
@@ -2662,8 +2662,8 @@
     },
     {
       "code": "W1-010",
-      "price": 164952,
-      "old_price": null,
+      "price": 140209,
+      "old_price": 164952,
       "availability": true,
       "stock": 1,
       "warranty_type": "manufacturer",
@@ -2770,8 +2770,8 @@
     },
     {
       "code": "W1-014",
-      "price": 168828,
-      "old_price": null,
+      "price": 143499,
+      "old_price": 168828,
       "availability": true,
       "stock": 1,
       "warranty_type": "manufacturer",
@@ -2797,8 +2797,8 @@
     },
     {
       "code": "W1-015",
-      "price": 151776,
-      "old_price": null,
+      "price": 129009,
+      "old_price": 151776,
       "availability": true,
       "stock": 4,
       "warranty_type": "manufacturer",
@@ -2932,7 +2932,7 @@
       "price": 714,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -2958,7 +2958,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 9
+          "stock": 8
         }
       ]
     },
@@ -3002,7 +3002,7 @@
       "price": 749,
       "old_price": 936,
       "availability": true,
-      "stock": 70,
+      "stock": 72,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3028,7 +3028,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 70
+          "stock": 72
         }
       ]
     },
@@ -3036,8 +3036,8 @@
       "code": "W1-022",
       "price": 684,
       "old_price": null,
-      "availability": false,
-      "stock": 0,
+      "availability": true,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3063,7 +3063,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 0
+          "stock": 1
         }
       ]
     },
@@ -3868,7 +3868,7 @@
       "price": 3084,
       "old_price": null,
       "availability": true,
-      "stock": 7,
+      "stock": 8,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3894,7 +3894,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 7
+          "stock": 8
         }
       ]
     },
@@ -3965,7 +3965,7 @@
       "price": 3042,
       "old_price": null,
       "availability": true,
-      "stock": 2,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3991,7 +3991,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -4334,7 +4334,7 @@
       "price": 819,
       "old_price": 1152,
       "availability": true,
-      "stock": 2,
+      "stock": 1,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4360,7 +4360,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -4369,7 +4369,7 @@
       "price": 849,
       "old_price": 1062,
       "availability": true,
-      "stock": 93,
+      "stock": 98,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4395,7 +4395,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 93
+          "stock": 98
         }
       ]
     },
@@ -4404,7 +4404,7 @@
       "price": 789,
       "old_price": 984,
       "availability": true,
-      "stock": 72,
+      "stock": 75,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4430,7 +4430,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 72
+          "stock": 75
         }
       ]
     },
@@ -4439,7 +4439,7 @@
       "price": 389,
       "old_price": 492,
       "availability": true,
-      "stock": 94,
+      "stock": 97,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4465,7 +4465,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 94
+          "stock": 97
         }
       ]
     },
@@ -4474,7 +4474,7 @@
       "price": 2369,
       "old_price": 2958,
       "availability": true,
-      "stock": 34,
+      "stock": 36,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4496,7 +4496,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 34
+          "stock": 36
         }
       ]
     },
@@ -4703,7 +4703,7 @@
       "price": 379,
       "old_price": 480,
       "availability": true,
-      "stock": 89,
+      "stock": 91,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4729,7 +4729,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 89
+          "stock": 91
         }
       ]
     },
@@ -4839,7 +4839,7 @@
       "price": 2369,
       "old_price": 2958,
       "availability": true,
-      "stock": 52,
+      "stock": 51,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4861,7 +4861,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 52
+          "stock": 51
         }
       ]
     },
@@ -4905,7 +4905,7 @@
       "price": 1969,
       "old_price": 2466,
       "availability": true,
-      "stock": 100,
+      "stock": 104,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4931,7 +4931,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 100
+          "stock": 104
         }
       ]
     },
