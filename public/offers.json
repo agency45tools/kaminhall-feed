@@ -1,6 +1,6 @@
 {
   "total": 166,
-  "updatedAt": "2026-11-23T09:34:29Z",
+  "updatedAt": "2026-11-24T09:05:56Z",
   "data": [
     {
       "code": "G1-010",
@@ -1090,7 +1090,7 @@
       "price": 890,
       "old_price": null,
       "availability": true,
-      "stock": 6,
+      "stock": 2,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -1116,7 +1116,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 6
+          "stock": 2
         }
       ]
     },
@@ -3002,7 +3002,7 @@
       "price": 749,
       "old_price": 936,
       "availability": true,
-      "stock": 70,
+      "stock": 71,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3028,7 +3028,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 70
+          "stock": 71
         }
       ]
     },
@@ -3274,7 +3274,7 @@
       "price": 1860,
       "old_price": null,
       "availability": true,
-      "stock": 15,
+      "stock": 14,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3300,7 +3300,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 15
+          "stock": 14
         }
       ]
     },
@@ -3868,7 +3868,7 @@
       "price": 3084,
       "old_price": null,
       "availability": true,
-      "stock": 8,
+      "stock": 7,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -3894,7 +3894,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 8
+          "stock": 7
         }
       ]
     },
@@ -4369,7 +4369,7 @@
       "price": 849,
       "old_price": 1062,
       "availability": true,
-      "stock": 93,
+      "stock": 94,
       "warranty_type": "manufacturer",
       "warranty_period": 12,
       "days_to_dispatch": 2,
@@ -4395,7 +4395,7 @@
       "warehouses": [
         {
           "id": "WH-01",
-          "stock": 93
+          "stock": 94
         }
       ]
     },
